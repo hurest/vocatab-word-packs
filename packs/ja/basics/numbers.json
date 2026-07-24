@@ -1,0 +1,144 @@
+{
+  "language": "ja",
+  "name": "숫자",
+  "words": [
+    {
+      "term": "一",
+      "reading": "いち",
+      "meaning": "일, 1",
+      "example": "いちから はじめましょう。"
+    },
+    {
+      "term": "二",
+      "reading": "に",
+      "meaning": "이, 2"
+    },
+    {
+      "term": "三",
+      "reading": "さん",
+      "meaning": "삼, 3"
+    },
+    {
+      "term": "四",
+      "reading": "よん",
+      "meaning": "사, 4"
+    },
+    {
+      "term": "五",
+      "reading": "ご",
+      "meaning": "오, 5"
+    },
+    {
+      "term": "六",
+      "reading": "ろく",
+      "meaning": "육, 6"
+    },
+    {
+      "term": "七",
+      "reading": "なな",
+      "meaning": "칠, 7"
+    },
+    {
+      "term": "八",
+      "reading": "はち",
+      "meaning": "팔, 8"
+    },
+    {
+      "term": "九",
+      "reading": "きゅう",
+      "meaning": "구, 9"
+    },
+    {
+      "term": "十",
+      "reading": "じゅう",
+      "meaning": "십, 10"
+    },
+    {
+      "term": "百",
+      "reading": "ひゃく",
+      "meaning": "백, 100",
+      "example": "ひゃくえんショップに いきます。"
+    },
+    {
+      "term": "千",
+      "reading": "せん",
+      "meaning": "천, 1,000"
+    },
+    {
+      "term": "万",
+      "reading": "まん",
+      "meaning": "만, 10,000",
+      "example": "いちまんえんさつしか ありません。"
+    },
+    {
+      "term": "億",
+      "reading": "おく",
+      "meaning": "억",
+      "example": "この かいしゃの うりあげは いちおくえんです。"
+    },
+    {
+      "term": "一つ",
+      "reading": "ひとつ",
+      "meaning": "한 개, 하나",
+      "example": "りんごを ひとつ ください。"
+    },
+    {
+      "term": "二つ",
+      "reading": "ふたつ",
+      "meaning": "두 개, 둘"
+    },
+    {
+      "term": "三つ",
+      "reading": "みっつ",
+      "meaning": "세 개, 셋"
+    },
+    {
+      "term": "半分",
+      "reading": "はんぶん",
+      "meaning": "절반",
+      "example": "ケーキを はんぶんに きってください。"
+    },
+    {
+      "term": "数",
+      "reading": "かず",
+      "meaning": "수, 개수",
+      "example": "ひとの かずを かぞえます。"
+    },
+    {
+      "term": "番号",
+      "reading": "ばんごう",
+      "meaning": "번호",
+      "example": "でんわばんごうを おしえてください。"
+    },
+    {
+      "term": "〜個",
+      "reading": "〜こ",
+      "meaning": "~개 (물건 세는 단위)",
+      "example": "たまごを さんこ かいました。"
+    },
+    {
+      "term": "〜人",
+      "reading": "〜にん",
+      "meaning": "~명 (사람 세는 단위)",
+      "example": "かぞくは よにんです。"
+    },
+    {
+      "term": "〜回",
+      "reading": "〜かい",
+      "meaning": "~번, ~회",
+      "example": "しゅうに にかい うんどうします。"
+    },
+    {
+      "term": "〜歳",
+      "reading": "〜さい",
+      "meaning": "~살, ~세",
+      "example": "かれは さんじゅっさいです。"
+    },
+    {
+      "term": "〜円",
+      "reading": "〜えん",
+      "meaning": "~엔 (일본 화폐)",
+      "example": "これは ごひゃくえんです。"
+    }
+  ]
+}

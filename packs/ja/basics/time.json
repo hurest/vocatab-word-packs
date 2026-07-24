@@ -1,0 +1,125 @@
+{
+  "language": "ja",
+  "name": "시간",
+  "words": [
+    {
+      "term": "時間",
+      "reading": "じかん",
+      "meaning": "시간",
+      "example": "じかんが ありません。"
+    },
+    {
+      "term": "〜時",
+      "reading": "〜じ",
+      "meaning": "~시",
+      "example": "かいぎは さんじからです。"
+    },
+    {
+      "term": "〜分",
+      "reading": "〜ふん",
+      "meaning": "~분",
+      "example": "ごふん まってください。"
+    },
+    {
+      "term": "〜秒",
+      "reading": "〜びょう",
+      "meaning": "~초"
+    },
+    {
+      "term": "半",
+      "reading": "はん",
+      "meaning": "반 (30분)",
+      "example": "くじはんに しゅっぱつします。"
+    },
+    {
+      "term": "午前",
+      "reading": "ごぜん",
+      "meaning": "오전",
+      "example": "ごぜんちゅうに おわらせます。"
+    },
+    {
+      "term": "午後",
+      "reading": "ごご",
+      "meaning": "오후",
+      "example": "ごごから あめが ふるそうです。"
+    },
+    {
+      "term": "朝",
+      "reading": "あさ",
+      "meaning": "아침",
+      "example": "あさごはんを たべましたか。"
+    },
+    {
+      "term": "昼",
+      "reading": "ひる",
+      "meaning": "낮, 점심때",
+      "example": "ひるに なにを たべますか。"
+    },
+    {
+      "term": "夜",
+      "reading": "よる",
+      "meaning": "밤",
+      "example": "よる おそくまで はたらきました。"
+    },
+    {
+      "term": "夕方",
+      "reading": "ゆうがた",
+      "meaning": "저녁 무렵",
+      "example": "ゆうがたに かえります。"
+    },
+    {
+      "term": "深夜",
+      "reading": "しんや",
+      "meaning": "심야",
+      "example": "しんやまで おきていました。"
+    },
+    {
+      "term": "今",
+      "reading": "いま",
+      "meaning": "지금",
+      "example": "いま なんじですか。"
+    },
+    {
+      "term": "何時",
+      "reading": "なんじ",
+      "meaning": "몇 시",
+      "example": "なんじに あいましょうか。"
+    },
+    {
+      "term": "時計",
+      "reading": "とけい",
+      "meaning": "시계",
+      "example": "とけいが とまっています。"
+    },
+    {
+      "term": "早い",
+      "reading": "はやい",
+      "meaning": "이르다, 빠르다",
+      "example": "あさ はやく おきました。"
+    },
+    {
+      "term": "遅い",
+      "reading": "おそい",
+      "meaning": "늦다, 느리다",
+      "example": "おそくなって すみません。"
+    },
+    {
+      "term": "昼休み",
+      "reading": "ひるやすみ",
+      "meaning": "점심시간",
+      "example": "ひるやすみは じゅうにじからです。"
+    },
+    {
+      "term": "締め切り",
+      "reading": "しめきり",
+      "meaning": "마감",
+      "example": "しめきりは きんようびです。"
+    },
+    {
+      "term": "そろそろ",
+      "reading": "そろそろ",
+      "meaning": "슬슬, 이제 곧",
+      "example": "そろそろ かえりましょう。"
+    }
+  ]
+}
