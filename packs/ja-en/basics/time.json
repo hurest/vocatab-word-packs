@@ -1,0 +1,134 @@
+{
+  "sourceLanguage": "ja",
+  "targetLanguage": "en",
+  "name": "English Time Expressions",
+  "description": "Common English words and expressions for discussing time.",
+  "tags": [
+    "basics",
+    "time"
+  ],
+  "localizations": {
+    "en": {
+      "name": "English Time Expressions",
+      "description": "Common English words and expressions for discussing time."
+    },
+    "ja": {
+      "name": "英語の時間表現",
+      "description": "時刻や時間について話すときによく使う英語の単語と表現です。"
+    },
+    "ko": {
+      "name": "영어 시간 표현",
+      "description": "시간을 말하고 이야기할 때 자주 쓰는 영어 단어와 표현 모음입니다."
+    },
+    "fr": {
+      "name": "Expressions temporelles anglaises",
+      "description": "Les mots et expressions courants en anglais pour parler du temps et de l’heure."
+    },
+    "de": {
+      "name": "Englische Zeitausdrücke",
+      "description": "Häufige Wörter und Ausdrücke auf Englisch, um über Zeit und Uhrzeit zu sprechen."
+    }
+  },
+  "words": [
+    {
+      "term": "time",
+      "reading": "/taɪm/",
+      "meaning": "時間"
+    },
+    {
+      "term": "o’clock",
+      "reading": "/əˈklɑːk/",
+      "meaning": "〜時"
+    },
+    {
+      "term": "minute",
+      "reading": "/ˈmɪnɪt/",
+      "meaning": "〜分"
+    },
+    {
+      "term": "second",
+      "reading": "/ˈsɛkənd/",
+      "meaning": "〜秒"
+    },
+    {
+      "term": "half past",
+      "reading": "/hæf pæst/",
+      "meaning": "半"
+    },
+    {
+      "term": "a.m.",
+      "reading": "/ˌeɪ ˈɛm/",
+      "meaning": "午前"
+    },
+    {
+      "term": "p.m.",
+      "reading": "/ˌpiː ˈɛm/",
+      "meaning": "午後"
+    },
+    {
+      "term": "morning",
+      "reading": "/ˈmɔːrnɪŋ/",
+      "meaning": "朝"
+    },
+    {
+      "term": "noon",
+      "reading": "/nuːn/",
+      "meaning": "昼"
+    },
+    {
+      "term": "night",
+      "reading": "/naɪt/",
+      "meaning": "夜"
+    },
+    {
+      "term": "evening",
+      "reading": "/ˈiːvnɪŋ/",
+      "meaning": "夕方"
+    },
+    {
+      "term": "late at night",
+      "reading": "/leɪt æt naɪt/",
+      "meaning": "深夜"
+    },
+    {
+      "term": "now",
+      "reading": "/naʊ/",
+      "meaning": "今"
+    },
+    {
+      "term": "what time",
+      "reading": "/wʌt taɪm/",
+      "meaning": "何時"
+    },
+    {
+      "term": "clock",
+      "reading": "/klɑːk/",
+      "meaning": "時計"
+    },
+    {
+      "term": "early",
+      "reading": "/ˈɝːli/",
+      "meaning": "早い"
+    },
+    {
+      "term": "late",
+      "reading": "/leɪt/",
+      "meaning": "遅い"
+    },
+    {
+      "term": "lunch break",
+      "reading": "/lʌntʃ breɪk/",
+      "meaning": "昼休み"
+    },
+    {
+      "term": "deadline",
+      "reading": "/ˈdɛdlaɪn/",
+      "meaning": "締め切り"
+    },
+    {
+      "term": "soon",
+      "reading": "/suːn/",
+      "meaning": "そろそろ"
+    }
+  ]
+}

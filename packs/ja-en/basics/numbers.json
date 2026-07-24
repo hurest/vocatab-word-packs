@@ -1,0 +1,159 @@
+{
+  "sourceLanguage": "ja",
+  "targetLanguage": "en",
+  "name": "English Numbers",
+  "description": "Common English numbers and counting expressions for beginner study.",
+  "tags": [
+    "basics",
+    "numbers"
+  ],
+  "localizations": {
+    "en": {
+      "name": "English Numbers",
+      "description": "Common English numbers and counting expressions for beginner study."
+    },
+    "ja": {
+      "name": "英語の数字",
+      "description": "初級学習者向けの英語の数字と数え方を集めています。"
+    },
+    "ko": {
+      "name": "영어 숫자",
+      "description": "초급 학습자를 위한 영어 숫자와 수 표현 모음입니다."
+    },
+    "fr": {
+      "name": "Nombres anglais",
+      "description": "Les nombres et expressions de comptage courants en anglais pour débuter."
+    },
+    "de": {
+      "name": "Englische Zahlen",
+      "description": "Häufige Zahlen und Zählausdrücke auf Englisch für den Einstieg."
+    }
+  },
+  "words": [
+    {
+      "term": "one",
+      "reading": "/wʌn/",
+      "meaning": "一"
+    },
+    {
+      "term": "two",
+      "reading": "/tuː/",
+      "meaning": "二"
+    },
+    {
+      "term": "three",
+      "reading": "/θriː/",
+      "meaning": "三"
+    },
+    {
+      "term": "four",
+      "reading": "/fɔːr/",
+      "meaning": "四"
+    },
+    {
+      "term": "five",
+      "reading": "/faɪv/",
+      "meaning": "五"
+    },
+    {
+      "term": "six",
+      "reading": "/sɪks/",
+      "meaning": "六"
+    },
+    {
+      "term": "seven",
+      "reading": "/ˈsɛvən/",
+      "meaning": "七"
+    },
+    {
+      "term": "eight",
+      "reading": "/eɪt/",
+      "meaning": "八"
+    },
+    {
+      "term": "nine",
+      "reading": "/naɪn/",
+      "meaning": "九"
+    },
+    {
+      "term": "ten",
+      "reading": "/tɛn/",
+      "meaning": "十"
+    },
+    {
+      "term": "one hundred",
+      "reading": "/wʌn ˈhʌndrəd/",
+      "meaning": "百"
+    },
+    {
+      "term": "one thousand",
+      "reading": "/wʌn ˈθaʊzənd/",
+      "meaning": "千"
+    },
+    {
+      "term": "ten thousand",
+      "reading": "/tɛn ˈθaʊzənd/",
+      "meaning": "万"
+    },
+    {
+      "term": "one hundred million",
+      "reading": "/wʌn ˈhʌndrəd ˈmɪljən/",
+      "meaning": "億"
+    },
+    {
+      "term": "one item",
+      "reading": "/wʌn ˈaɪtəm/",
+      "meaning": "一つ"
+    },
+    {
+      "term": "two items",
+      "reading": "/tuː ˈaɪtəmz/",
+      "meaning": "二つ"
+    },
+    {
+      "term": "three items",
+      "reading": "/θriː ˈaɪtəmz/",
+      "meaning": "三つ"
+    },
+    {
+      "term": "half",
+      "reading": "/hæf/",
+      "meaning": "半分"
+    },
+    {
+      "term": "number",
+      "reading": "/ˈnʌmbɚ/",
+      "meaning": "数"
+    },
+    {
+      "term": "identification number",
+      "reading": "/aɪˌdɛntəfəˈkeɪʃən ˈnʌmbɚ/",
+      "meaning": "番号"
+    },
+    {
+      "term": "items",
+      "reading": "/ˈaɪtəmz/",
+      "meaning": "〜個"
+    },
+    {
+      "term": "people",
+      "reading": "/ˈpiːpəl/",
+      "meaning": "〜人"
+    },
+    {
+      "term": "times",
+      "reading": "/taɪmz/",
+      "meaning": "〜回"
+    },
+    {
+      "term": "years old",
+      "reading": "/jɪrz oʊld/",
+      "meaning": "〜歳"
+    },
+    {
+      "term": "yen",
+      "reading": "/jɛn/",
+      "meaning": "〜円"
+    }
+  ]
+}

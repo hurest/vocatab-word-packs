@@ -1,0 +1,170 @@
+{
+  "sourceLanguage": "fr",
+  "targetLanguage": "de",
+  "name": "German Dates",
+  "description": "German words for days, weeks, months, years, and relative dates.",
+  "tags": [
+    "basics",
+    "dates",
+    "time"
+  ],
+  "localizations": {
+    "en": {
+      "name": "German Dates",
+      "description": "German words for days, weeks, months, years, and relative dates."
+    },
+    "ja": {
+      "name": "ドイツ語の日付",
+      "description": "日・週・月・年と相対的な日付を表すドイツ語の単語集です。"
+    },
+    "ko": {
+      "name": "독일어 날짜",
+      "description": "일, 주, 월, 연도와 상대 날짜를 나타내는 독일어 단어 모음입니다."
+    },
+    "fr": {
+      "name": "Dates allemandes",
+      "description": "Les mots en allemand pour les jours, semaines, mois, années et dates relatives."
+    },
+    "de": {
+      "name": "Deutsche Datumsangaben",
+      "description": "Wörter auf Deutsch für Tage, Wochen, Monate, Jahre und relative Datumsangaben."
+    }
+  },
+  "words": [
+    {
+      "term": "heute",
+      "reading": "heute",
+      "meaning": "aujourd’hui"
+    },
+    {
+      "term": "morgen",
+      "reading": "morgen",
+      "meaning": "demain"
+    },
+    {
+      "term": "gestern",
+      "reading": "gestern",
+      "meaning": "hier"
+    },
+    {
+      "term": "übermorgen",
+      "reading": "übermorgen",
+      "meaning": "après-demain"
+    },
+    {
+      "term": "vorgestern",
+      "reading": "vorgestern",
+      "meaning": "avant-hier"
+    },
+    {
+      "term": "jeden Tag",
+      "reading": "jeden Tag",
+      "meaning": "tous les jours"
+    },
+    {
+      "term": "diese Woche",
+      "reading": "diese Woche",
+      "meaning": "cette semaine"
+    },
+    {
+      "term": "letzte Woche",
+      "reading": "letzte Woche",
+      "meaning": "la semaine dernière"
+    },
+    {
+      "term": "nächste Woche",
+      "reading": "nächste Woche",
+      "meaning": "la semaine prochaine"
+    },
+    {
+      "term": "dieser Monat",
+      "reading": "dieser Monat",
+      "meaning": "ce mois-ci"
+    },
+    {
+      "term": "letzter Monat",
+      "reading": "letzter Monat",
+      "meaning": "le mois dernier"
+    },
+    {
+      "term": "nächster Monat",
+      "reading": "nächster Monat",
+      "meaning": "le mois prochain"
+    },
+    {
+      "term": "dieses Jahr",
+      "reading": "dieses Jahr",
+      "meaning": "cette année"
+    },
+    {
+      "term": "letztes Jahr",
+      "reading": "letztes Jahr",
+      "meaning": "l’année dernière"
+    },
+    {
+      "term": "nächstes Jahr",
+      "reading": "nächstes Jahr",
+      "meaning": "l’année prochaine"
+    },
+    {
+      "term": "Montag",
+      "reading": "Montag",
+      "meaning": "lundi"
+    },
+    {
+      "term": "Dienstag",
+      "reading": "Dienstag",
+      "meaning": "mardi"
+    },
+    {
+      "term": "Mittwoch",
+      "reading": "Mittwoch",
+      "meaning": "mercredi"
+    },
+    {
+      "term": "Donnerstag",
+      "reading": "Donnerstag",
+      "meaning": "jeudi"
+    },
+    {
+      "term": "Freitag",
+      "reading": "Freitag",
+      "meaning": "vendredi"
+    },
+    {
+      "term": "Samstag",
+      "reading": "Samstag",
+      "meaning": "samedi"
+    },
+    {
+      "term": "Sonntag",
+      "reading": "Sonntag",
+      "meaning": "dimanche"
+    },
+    {
+      "term": "Wochenende",
+      "reading": "Wochenende",
+      "meaning": "week-end"
+    },
+    {
+      "term": "Wochentag",
+      "reading": "Wochentag",
+      "meaning": "jour de la semaine"
+    },
+    {
+      "term": "Datum",
+      "reading": "Datum",
+      "meaning": "date"
+    },
+    {
+      "term": "Geburtstag",
+      "reading": "Geburtstag",
+      "meaning": "anniversaire"
+    },
+    {
+      "term": "Feiertag",
+      "reading": "Feiertag",
+      "meaning": "jour férié"
+    }
+  ]
+}

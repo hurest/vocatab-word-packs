@@ -1,0 +1,134 @@
+{
+  "sourceLanguage": "en",
+  "targetLanguage": "ja",
+  "name": "Japanese Time Expressions",
+  "description": "Common Japanese words and expressions for discussing time.",
+  "tags": [
+    "basics",
+    "time"
+  ],
+  "localizations": {
+    "en": {
+      "name": "Japanese Time Expressions",
+      "description": "Common Japanese words and expressions for discussing time."
+    },
+    "ja": {
+      "name": "日本語の時間表現",
+      "description": "時刻や時間について話すときによく使う日本語の単語と表現です。"
+    },
+    "ko": {
+      "name": "일본어 시간 표현",
+      "description": "시간을 말하고 이야기할 때 자주 쓰는 일본어 단어와 표현 모음입니다."
+    },
+    "fr": {
+      "name": "Expressions temporelles japonaises",
+      "description": "Les mots et expressions courants en japonais pour parler du temps et de l’heure."
+    },
+    "de": {
+      "name": "Japanische Zeitausdrücke",
+      "description": "Häufige Wörter und Ausdrücke auf Japanisch, um über Zeit und Uhrzeit zu sprechen."
+    }
+  },
+  "words": [
+    {
+      "term": "時間",
+      "reading": "じかん",
+      "meaning": "time"
+    },
+    {
+      "term": "〜時",
+      "reading": "〜じ",
+      "meaning": "o’clock"
+    },
+    {
+      "term": "〜分",
+      "reading": "〜ふん",
+      "meaning": "minute"
+    },
+    {
+      "term": "〜秒",
+      "reading": "〜びょう",
+      "meaning": "second"
+    },
+    {
+      "term": "半",
+      "reading": "はん",
+      "meaning": "half past"
+    },
+    {
+      "term": "午前",
+      "reading": "ごぜん",
+      "meaning": "a.m."
+    },
+    {
+      "term": "午後",
+      "reading": "ごご",
+      "meaning": "p.m."
+    },
+    {
+      "term": "朝",
+      "reading": "あさ",
+      "meaning": "morning"
+    },
+    {
+      "term": "昼",
+      "reading": "ひる",
+      "meaning": "noon"
+    },
+    {
+      "term": "夜",
+      "reading": "よる",
+      "meaning": "night"
+    },
+    {
+      "term": "夕方",
+      "reading": "ゆうがた",
+      "meaning": "evening"
+    },
+    {
+      "term": "深夜",
+      "reading": "しんや",
+      "meaning": "late at night"
+    },
+    {
+      "term": "今",
+      "reading": "いま",
+      "meaning": "now"
+    },
+    {
+      "term": "何時",
+      "reading": "なんじ",
+      "meaning": "what time"
+    },
+    {
+      "term": "時計",
+      "reading": "とけい",
+      "meaning": "clock"
+    },
+    {
+      "term": "早い",
+      "reading": "はやい",
+      "meaning": "early"
+    },
+    {
+      "term": "遅い",
+      "reading": "おそい",
+      "meaning": "late"
+    },
+    {
+      "term": "昼休み",
+      "reading": "ひるやすみ",
+      "meaning": "lunch break"
+    },
+    {
+      "term": "締め切り",
+      "reading": "しめきり",
+      "meaning": "deadline"
+    },
+    {
+      "term": "そろそろ",
+      "reading": "そろそろ",
+      "meaning": "soon"
+    }
+  ]
+}

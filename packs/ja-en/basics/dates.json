@@ -1,0 +1,170 @@
+{
+  "sourceLanguage": "ja",
+  "targetLanguage": "en",
+  "name": "English Dates",
+  "description": "English words for days, weeks, months, years, and relative dates.",
+  "tags": [
+    "basics",
+    "dates",
+    "time"
+  ],
+  "localizations": {
+    "en": {
+      "name": "English Dates",
+      "description": "English words for days, weeks, months, years, and relative dates."
+    },
+    "ja": {
+      "name": "英語の日付",
+      "description": "日・週・月・年と相対的な日付を表す英語の単語集です。"
+    },
+    "ko": {
+      "name": "영어 날짜",
+      "description": "일, 주, 월, 연도와 상대 날짜를 나타내는 영어 단어 모음입니다."
+    },
+    "fr": {
+      "name": "Dates anglaises",
+      "description": "Les mots en anglais pour les jours, semaines, mois, années et dates relatives."
+    },
+    "de": {
+      "name": "Englische Datumsangaben",
+      "description": "Wörter auf Englisch für Tage, Wochen, Monate, Jahre und relative Datumsangaben."
+    }
+  },
+  "words": [
+    {
+      "term": "today",
+      "reading": "/təˈdeɪ/",
+      "meaning": "今日"
+    },
+    {
+      "term": "tomorrow",
+      "reading": "/təˈmɑːroʊ/",
+      "meaning": "明日"
+    },
+    {
+      "term": "yesterday",
+      "reading": "/ˈjɛstɚdeɪ/",
+      "meaning": "昨日"
+    },
+    {
+      "term": "the day after tomorrow",
+      "reading": "/ðə deɪ ˈæftɚ təˈmɑːroʊ/",
+      "meaning": "明後日"
+    },
+    {
+      "term": "the day before yesterday",
+      "reading": "/ðə deɪ bɪˈfɔːr ˈjɛstɚdeɪ/",
+      "meaning": "一昨日"
+    },
+    {
+      "term": "every day",
+      "reading": "/ˈɛvri deɪ/",
+      "meaning": "毎日"
+    },
+    {
+      "term": "this week",
+      "reading": "/ðɪs wiːk/",
+      "meaning": "今週"
+    },
+    {
+      "term": "last week",
+      "reading": "/læst wiːk/",
+      "meaning": "先週"
+    },
+    {
+      "term": "next week",
+      "reading": "/nɛkst wiːk/",
+      "meaning": "来週"
+    },
+    {
+      "term": "this month",
+      "reading": "/ðɪs mʌnθ/",
+      "meaning": "今月"
+    },
+    {
+      "term": "last month",
+      "reading": "/læst mʌnθ/",
+      "meaning": "先月"
+    },
+    {
+      "term": "next month",
+      "reading": "/nɛkst mʌnθ/",
+      "meaning": "来月"
+    },
+    {
+      "term": "this year",
+      "reading": "/ðɪs jɪr/",
+      "meaning": "今年"
+    },
+    {
+      "term": "last year",
+      "reading": "/læst jɪr/",
+      "meaning": "去年"
+    },
+    {
+      "term": "next year",
+      "reading": "/nɛkst jɪr/",
+      "meaning": "来年"
+    },
+    {
+      "term": "Monday",
+      "reading": "/ˈmʌndeɪ/",
+      "meaning": "月曜日"
+    },
+    {
+      "term": "Tuesday",
+      "reading": "/ˈtuːzdeɪ/",
+      "meaning": "火曜日"
+    },
+    {
+      "term": "Wednesday",
+      "reading": "/ˈwɛnzdeɪ/",
+      "meaning": "水曜日"
+    },
+    {
+      "term": "Thursday",
+      "reading": "/ˈθɝːzdeɪ/",
+      "meaning": "木曜日"
+    },
+    {
+      "term": "Friday",
+      "reading": "/ˈfraɪdeɪ/",
+      "meaning": "金曜日"
+    },
+    {
+      "term": "Saturday",
+      "reading": "/ˈsætɚdeɪ/",
+      "meaning": "土曜日"
+    },
+    {
+      "term": "Sunday",
+      "reading": "/ˈsʌndeɪ/",
+      "meaning": "日曜日"
+    },
+    {
+      "term": "weekend",
+      "reading": "/ˌwiːkˈɛnd/",
+      "meaning": "週末"
+    },
+    {
+      "term": "day of the week",
+      "reading": "/deɪ əv ðə wiːk/",
+      "meaning": "曜日"
+    },
+    {
+      "term": "date",
+      "reading": "/deɪt/",
+      "meaning": "日付"
+    },
+    {
+      "term": "birthday",
+      "reading": "/ˈbɝːθdeɪ/",
+      "meaning": "誕生日"
+    },
+    {
+      "term": "public holiday",
+      "reading": "/ˈpʌblɪk ˈhɑːlədeɪ/",
+      "meaning": "祝日"
+    }
+  ]
+}

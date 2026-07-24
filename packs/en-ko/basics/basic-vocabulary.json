@@ -1,0 +1,184 @@
+{
+  "sourceLanguage": "en",
+  "targetLanguage": "ko",
+  "name": "Korean Basic Vocabulary",
+  "description": "A starter collection of common Korean words for everyday study.",
+  "tags": [
+    "basics",
+    "daily-life"
+  ],
+  "localizations": {
+    "en": {
+      "name": "Korean Basic Vocabulary",
+      "description": "A starter collection of common Korean words for everyday study."
+    },
+    "ja": {
+      "name": "韓国語の基礎語彙",
+      "description": "日常学習でよく使う韓国語の単語を集めた入門単語パックです。"
+    },
+    "ko": {
+      "name": "한국어 기초 어휘",
+      "description": "일상 학습에 자주 쓰는 한국어 단어를 모은 기초 단어팩입니다."
+    },
+    "fr": {
+      "name": "Vocabulaire de base coréen",
+      "description": "Une sélection de mots courants en coréen pour débuter."
+    },
+    "de": {
+      "name": "Koreanischer Grundwortschatz",
+      "description": "Eine Sammlung häufiger Wörter auf Koreanisch für den Einstieg."
+    }
+  },
+  "words": [
+    {
+      "term": "공부",
+      "reading": "공부",
+      "meaning": "study"
+    },
+    {
+      "term": "일, 업무",
+      "reading": "일, 업무",
+      "meaning": "work"
+    },
+    {
+      "term": "회의",
+      "reading": "회의",
+      "meaning": "meeting"
+    },
+    {
+      "term": "약속",
+      "reading": "약속",
+      "meaning": "appointment"
+    },
+    {
+      "term": "준비",
+      "reading": "준비",
+      "meaning": "preparation"
+    },
+    {
+      "term": "경험",
+      "reading": "경험",
+      "meaning": "experience"
+    },
+    {
+      "term": "설명",
+      "reading": "설명",
+      "meaning": "explanation"
+    },
+    {
+      "term": "예정, 일정",
+      "reading": "예정, 일정",
+      "meaning": "schedule"
+    },
+    {
+      "term": "상담, 의논",
+      "reading": "상담, 의논",
+      "meaning": "consultation"
+    },
+    {
+      "term": "연락",
+      "reading": "연락",
+      "meaning": "contact"
+    },
+    {
+      "term": "확인",
+      "reading": "확인",
+      "meaning": "confirmation"
+    },
+    {
+      "term": "야근, 잔업",
+      "reading": "야근, 잔업",
+      "meaning": "overtime"
+    },
+    {
+      "term": "지각",
+      "reading": "지각",
+      "meaning": "lateness"
+    },
+    {
+      "term": "출장",
+      "reading": "출장",
+      "meaning": "business trip"
+    },
+    {
+      "term": "보고",
+      "reading": "보고",
+      "meaning": "report"
+    },
+    {
+      "term": "날씨",
+      "reading": "날씨",
+      "meaning": "weather"
+    },
+    {
+      "term": "쇼핑, 장보기",
+      "reading": "쇼핑, 장보기",
+      "meaning": "shopping"
+    },
+    {
+      "term": "요리",
+      "reading": "요리",
+      "meaning": "cooking"
+    },
+    {
+      "term": "여행",
+      "reading": "여행",
+      "meaning": "travel"
+    },
+    {
+      "term": "사진",
+      "reading": "사진",
+      "meaning": "photograph"
+    },
+    {
+      "term": "영화",
+      "reading": "영화",
+      "meaning": "movie"
+    },
+    {
+      "term": "음악",
+      "reading": "음악",
+      "meaning": "music"
+    },
+    {
+      "term": "운동",
+      "reading": "운동",
+      "meaning": "exercise"
+    },
+    {
+      "term": "병원",
+      "reading": "병원",
+      "meaning": "hospital"
+    },
+    {
+      "term": "약",
+      "reading": "약",
+      "meaning": "medicine"
+    },
+    {
+      "term": "습관",
+      "reading": "습관",
+      "meaning": "habit"
+    },
+    {
+      "term": "기분, 마음",
+      "reading": "기분, 마음",
+      "meaning": "feeling"
+    },
+    {
+      "term": "기분, 컨디션",
+      "reading": "기분, 컨디션",
+      "meaning": "mood"
+    },
+    {
+      "term": "괜찮음",
+      "reading": "괜찮음",
+      "meaning": "all right"
+    },
+    {
+      "term": "편리함",
+      "reading": "편리함",
+      "meaning": "convenient"
+    }
+  ]
+}

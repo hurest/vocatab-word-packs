@@ -1,0 +1,184 @@
+{
+  "sourceLanguage": "ja",
+  "targetLanguage": "fr",
+  "name": "French Basic Vocabulary",
+  "description": "A starter collection of common French words for everyday study.",
+  "tags": [
+    "basics",
+    "daily-life"
+  ],
+  "localizations": {
+    "en": {
+      "name": "French Basic Vocabulary",
+      "description": "A starter collection of common French words for everyday study."
+    },
+    "ja": {
+      "name": "フランス語の基礎語彙",
+      "description": "日常学習でよく使うフランス語の単語を集めた入門単語パックです。"
+    },
+    "ko": {
+      "name": "프랑스어 기초 어휘",
+      "description": "일상 학습에 자주 쓰는 프랑스어 단어를 모은 기초 단어팩입니다."
+    },
+    "fr": {
+      "name": "Vocabulaire de base français",
+      "description": "Une sélection de mots courants en français pour débuter."
+    },
+    "de": {
+      "name": "Französischer Grundwortschatz",
+      "description": "Eine Sammlung häufiger Wörter auf Französisch für den Einstieg."
+    }
+  },
+  "words": [
+    {
+      "term": "étude",
+      "reading": "étude",
+      "meaning": "勉強"
+    },
+    {
+      "term": "travail",
+      "reading": "travail",
+      "meaning": "仕事"
+    },
+    {
+      "term": "réunion",
+      "reading": "réunion",
+      "meaning": "会議"
+    },
+    {
+      "term": "rendez-vous",
+      "reading": "rendez-vous",
+      "meaning": "約束"
+    },
+    {
+      "term": "préparation",
+      "reading": "préparation",
+      "meaning": "準備"
+    },
+    {
+      "term": "expérience",
+      "reading": "expérience",
+      "meaning": "経験"
+    },
+    {
+      "term": "explication",
+      "reading": "explication",
+      "meaning": "説明"
+    },
+    {
+      "term": "programme",
+      "reading": "programme",
+      "meaning": "予定"
+    },
+    {
+      "term": "consultation",
+      "reading": "consultation",
+      "meaning": "相談"
+    },
+    {
+      "term": "contact",
+      "reading": "contact",
+      "meaning": "連絡"
+    },
+    {
+      "term": "confirmation",
+      "reading": "confirmation",
+      "meaning": "確認"
+    },
+    {
+      "term": "heures supplémentaires",
+      "reading": "heures supplémentaires",
+      "meaning": "残業"
+    },
+    {
+      "term": "retard",
+      "reading": "retard",
+      "meaning": "遅刻"
+    },
+    {
+      "term": "voyage d’affaires",
+      "reading": "voyage d’affaires",
+      "meaning": "出張"
+    },
+    {
+      "term": "rapport",
+      "reading": "rapport",
+      "meaning": "報告"
+    },
+    {
+      "term": "temps",
+      "reading": "temps",
+      "meaning": "天気"
+    },
+    {
+      "term": "courses",
+      "reading": "courses",
+      "meaning": "買い物"
+    },
+    {
+      "term": "cuisine",
+      "reading": "cuisine",
+      "meaning": "料理"
+    },
+    {
+      "term": "voyage",
+      "reading": "voyage",
+      "meaning": "旅行"
+    },
+    {
+      "term": "photo",
+      "reading": "photo",
+      "meaning": "写真"
+    },
+    {
+      "term": "film",
+      "reading": "film",
+      "meaning": "映画"
+    },
+    {
+      "term": "musique",
+      "reading": "musique",
+      "meaning": "音楽"
+    },
+    {
+      "term": "exercice",
+      "reading": "exercice",
+      "meaning": "運動"
+    },
+    {
+      "term": "hôpital",
+      "reading": "hôpital",
+      "meaning": "病院"
+    },
+    {
+      "term": "médicament",
+      "reading": "médicament",
+      "meaning": "薬"
+    },
+    {
+      "term": "habitude",
+      "reading": "habitude",
+      "meaning": "習慣"
+    },
+    {
+      "term": "sentiment",
+      "reading": "sentiment",
+      "meaning": "気持ち"
+    },
+    {
+      "term": "humeur",
+      "reading": "humeur",
+      "meaning": "気分"
+    },
+    {
+      "term": "ça va",
+      "reading": "ça va",
+      "meaning": "大丈夫"
+    },
+    {
+      "term": "pratique",
+      "reading": "pratique",
+      "meaning": "便利"
+    }
+  ]
+}

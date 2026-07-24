@@ -1,0 +1,184 @@
+{
+  "sourceLanguage": "ko",
+  "targetLanguage": "de",
+  "name": "German Basic Vocabulary",
+  "description": "A starter collection of common German words for everyday study.",
+  "tags": [
+    "basics",
+    "daily-life"
+  ],
+  "localizations": {
+    "en": {
+      "name": "German Basic Vocabulary",
+      "description": "A starter collection of common German words for everyday study."
+    },
+    "ja": {
+      "name": "ドイツ語の基礎語彙",
+      "description": "日常学習でよく使うドイツ語の単語を集めた入門単語パックです。"
+    },
+    "ko": {
+      "name": "독일어 기초 어휘",
+      "description": "일상 학습에 자주 쓰는 독일어 단어를 모은 기초 단어팩입니다."
+    },
+    "fr": {
+      "name": "Vocabulaire de base allemand",
+      "description": "Une sélection de mots courants en allemand pour débuter."
+    },
+    "de": {
+      "name": "Deutscher Grundwortschatz",
+      "description": "Eine Sammlung häufiger Wörter auf Deutsch für den Einstieg."
+    }
+  },
+  "words": [
+    {
+      "term": "Lernen",
+      "reading": "Lernen",
+      "meaning": "공부"
+    },
+    {
+      "term": "Arbeit",
+      "reading": "Arbeit",
+      "meaning": "일, 업무"
+    },
+    {
+      "term": "Besprechung",
+      "reading": "Besprechung",
+      "meaning": "회의"
+    },
+    {
+      "term": "Termin",
+      "reading": "Termin",
+      "meaning": "약속"
+    },
+    {
+      "term": "Vorbereitung",
+      "reading": "Vorbereitung",
+      "meaning": "준비"
+    },
+    {
+      "term": "Erfahrung",
+      "reading": "Erfahrung",
+      "meaning": "경험"
+    },
+    {
+      "term": "Erklärung",
+      "reading": "Erklärung",
+      "meaning": "설명"
+    },
+    {
+      "term": "Zeitplan",
+      "reading": "Zeitplan",
+      "meaning": "예정, 일정"
+    },
+    {
+      "term": "Beratung",
+      "reading": "Beratung",
+      "meaning": "상담, 의논"
+    },
+    {
+      "term": "Kontakt",
+      "reading": "Kontakt",
+      "meaning": "연락"
+    },
+    {
+      "term": "Bestätigung",
+      "reading": "Bestätigung",
+      "meaning": "확인"
+    },
+    {
+      "term": "Überstunden",
+      "reading": "Überstunden",
+      "meaning": "야근, 잔업"
+    },
+    {
+      "term": "Verspätung",
+      "reading": "Verspätung",
+      "meaning": "지각"
+    },
+    {
+      "term": "Dienstreise",
+      "reading": "Dienstreise",
+      "meaning": "출장"
+    },
+    {
+      "term": "Bericht",
+      "reading": "Bericht",
+      "meaning": "보고"
+    },
+    {
+      "term": "Wetter",
+      "reading": "Wetter",
+      "meaning": "날씨"
+    },
+    {
+      "term": "Einkaufen",
+      "reading": "Einkaufen",
+      "meaning": "쇼핑, 장보기"
+    },
+    {
+      "term": "Kochen",
+      "reading": "Kochen",
+      "meaning": "요리"
+    },
+    {
+      "term": "Reise",
+      "reading": "Reise",
+      "meaning": "여행"
+    },
+    {
+      "term": "Foto",
+      "reading": "Foto",
+      "meaning": "사진"
+    },
+    {
+      "term": "Film",
+      "reading": "Film",
+      "meaning": "영화"
+    },
+    {
+      "term": "Musik",
+      "reading": "Musik",
+      "meaning": "음악"
+    },
+    {
+      "term": "Sport",
+      "reading": "Sport",
+      "meaning": "운동"
+    },
+    {
+      "term": "Krankenhaus",
+      "reading": "Krankenhaus",
+      "meaning": "병원"
+    },
+    {
+      "term": "Medikament",
+      "reading": "Medikament",
+      "meaning": "약"
+    },
+    {
+      "term": "Gewohnheit",
+      "reading": "Gewohnheit",
+      "meaning": "습관"
+    },
+    {
+      "term": "Gefühl",
+      "reading": "Gefühl",
+      "meaning": "기분, 마음"
+    },
+    {
+      "term": "Stimmung",
+      "reading": "Stimmung",
+      "meaning": "기분, 컨디션"
+    },
+    {
+      "term": "in Ordnung",
+      "reading": "in Ordnung",
+      "meaning": "괜찮음"
+    },
+    {
+      "term": "praktisch",
+      "reading": "praktisch",
+      "meaning": "편리함"
+    }
+  ]
+}

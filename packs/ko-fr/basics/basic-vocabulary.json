@@ -1,0 +1,184 @@
+{
+  "sourceLanguage": "ko",
+  "targetLanguage": "fr",
+  "name": "French Basic Vocabulary",
+  "description": "A starter collection of common French words for everyday study.",
+  "tags": [
+    "basics",
+    "daily-life"
+  ],
+  "localizations": {
+    "en": {
+      "name": "French Basic Vocabulary",
+      "description": "A starter collection of common French words for everyday study."
+    },
+    "ja": {
+      "name": "フランス語の基礎語彙",
+      "description": "日常学習でよく使うフランス語の単語を集めた入門単語パックです。"
+    },
+    "ko": {
+      "name": "프랑스어 기초 어휘",
+      "description": "일상 학습에 자주 쓰는 프랑스어 단어를 모은 기초 단어팩입니다."
+    },
+    "fr": {
+      "name": "Vocabulaire de base français",
+      "description": "Une sélection de mots courants en français pour débuter."
+    },
+    "de": {
+      "name": "Französischer Grundwortschatz",
+      "description": "Eine Sammlung häufiger Wörter auf Französisch für den Einstieg."
+    }
+  },
+  "words": [
+    {
+      "term": "étude",
+      "reading": "étude",
+      "meaning": "공부"
+    },
+    {
+      "term": "travail",
+      "reading": "travail",
+      "meaning": "일, 업무"
+    },
+    {
+      "term": "réunion",
+      "reading": "réunion",
+      "meaning": "회의"
+    },
+    {
+      "term": "rendez-vous",
+      "reading": "rendez-vous",
+      "meaning": "약속"
+    },
+    {
+      "term": "préparation",
+      "reading": "préparation",
+      "meaning": "준비"
+    },
+    {
+      "term": "expérience",
+      "reading": "expérience",
+      "meaning": "경험"
+    },
+    {
+      "term": "explication",
+      "reading": "explication",
+      "meaning": "설명"
+    },
+    {
+      "term": "programme",
+      "reading": "programme",
+      "meaning": "예정, 일정"
+    },
+    {
+      "term": "consultation",
+      "reading": "consultation",
+      "meaning": "상담, 의논"
+    },
+    {
+      "term": "contact",
+      "reading": "contact",
+      "meaning": "연락"
+    },
+    {
+      "term": "confirmation",
+      "reading": "confirmation",
+      "meaning": "확인"
+    },
+    {
+      "term": "heures supplémentaires",
+      "reading": "heures supplémentaires",
+      "meaning": "야근, 잔업"
+    },
+    {
+      "term": "retard",
+      "reading": "retard",
+      "meaning": "지각"
+    },
+    {
+      "term": "voyage d’affaires",
+      "reading": "voyage d’affaires",
+      "meaning": "출장"
+    },
+    {
+      "term": "rapport",
+      "reading": "rapport",
+      "meaning": "보고"
+    },
+    {
+      "term": "temps",
+      "reading": "temps",
+      "meaning": "날씨"
+    },
+    {
+      "term": "courses",
+      "reading": "courses",
+      "meaning": "쇼핑, 장보기"
+    },
+    {
+      "term": "cuisine",
+      "reading": "cuisine",
+      "meaning": "요리"
+    },
+    {
+      "term": "voyage",
+      "reading": "voyage",
+      "meaning": "여행"
+    },
+    {
+      "term": "photo",
+      "reading": "photo",
+      "meaning": "사진"
+    },
+    {
+      "term": "film",
+      "reading": "film",
+      "meaning": "영화"
+    },
+    {
+      "term": "musique",
+      "reading": "musique",
+      "meaning": "음악"
+    },
+    {
+      "term": "exercice",
+      "reading": "exercice",
+      "meaning": "운동"
+    },
+    {
+      "term": "hôpital",
+      "reading": "hôpital",
+      "meaning": "병원"
+    },
+    {
+      "term": "médicament",
+      "reading": "médicament",
+      "meaning": "약"
+    },
+    {
+      "term": "habitude",
+      "reading": "habitude",
+      "meaning": "습관"
+    },
+    {
+      "term": "sentiment",
+      "reading": "sentiment",
+      "meaning": "기분, 마음"
+    },
+    {
+      "term": "humeur",
+      "reading": "humeur",
+      "meaning": "기분, 컨디션"
+    },
+    {
+      "term": "ça va",
+      "reading": "ça va",
+      "meaning": "괜찮음"
+    },
+    {
+      "term": "pratique",
+      "reading": "pratique",
+      "meaning": "편리함"
+    }
+  ]
+}

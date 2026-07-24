@@ -1,0 +1,184 @@
+{
+  "sourceLanguage": "fr",
+  "targetLanguage": "ja",
+  "name": "Japanese Basic Vocabulary",
+  "description": "A starter collection of common Japanese words for everyday study.",
+  "tags": [
+    "basics",
+    "daily-life"
+  ],
+  "localizations": {
+    "en": {
+      "name": "Japanese Basic Vocabulary",
+      "description": "A starter collection of common Japanese words for everyday study."
+    },
+    "ja": {
+      "name": "日本語の基礎語彙",
+      "description": "日常学習でよく使う日本語の単語を集めた入門単語パックです。"
+    },
+    "ko": {
+      "name": "일본어 기초 어휘",
+      "description": "일상 학습에 자주 쓰는 일본어 단어를 모은 기초 단어팩입니다."
+    },
+    "fr": {
+      "name": "Vocabulaire de base japonais",
+      "description": "Une sélection de mots courants en japonais pour débuter."
+    },
+    "de": {
+      "name": "Japanischer Grundwortschatz",
+      "description": "Eine Sammlung häufiger Wörter auf Japanisch für den Einstieg."
+    }
+  },
+  "words": [
+    {
+      "term": "勉強",
+      "reading": "べんきょう",
+      "meaning": "étude"
+    },
+    {
+      "term": "仕事",
+      "reading": "しごと",
+      "meaning": "travail"
+    },
+    {
+      "term": "会議",
+      "reading": "かいぎ",
+      "meaning": "réunion"
+    },
+    {
+      "term": "約束",
+      "reading": "やくそく",
+      "meaning": "rendez-vous"
+    },
+    {
+      "term": "準備",
+      "reading": "じゅんび",
+      "meaning": "préparation"
+    },
+    {
+      "term": "経験",
+      "reading": "けいけん",
+      "meaning": "expérience"
+    },
+    {
+      "term": "説明",
+      "reading": "せつめい",
+      "meaning": "explication"
+    },
+    {
+      "term": "予定",
+      "reading": "よてい",
+      "meaning": "programme"
+    },
+    {
+      "term": "相談",
+      "reading": "そうだん",
+      "meaning": "consultation"
+    },
+    {
+      "term": "連絡",
+      "reading": "れんらく",
+      "meaning": "contact"
+    },
+    {
+      "term": "確認",
+      "reading": "かくにん",
+      "meaning": "confirmation"
+    },
+    {
+      "term": "残業",
+      "reading": "ざんぎょう",
+      "meaning": "heures supplémentaires"
+    },
+    {
+      "term": "遅刻",
+      "reading": "ちこく",
+      "meaning": "retard"
+    },
+    {
+      "term": "出張",
+      "reading": "しゅっちょう",
+      "meaning": "voyage d’affaires"
+    },
+    {
+      "term": "報告",
+      "reading": "ほうこく",
+      "meaning": "rapport"
+    },
+    {
+      "term": "天気",
+      "reading": "てんき",
+      "meaning": "temps"
+    },
+    {
+      "term": "買い物",
+      "reading": "かいもの",
+      "meaning": "courses"
+    },
+    {
+      "term": "料理",
+      "reading": "りょうり",
+      "meaning": "cuisine"
+    },
+    {
+      "term": "旅行",
+      "reading": "りょこう",
+      "meaning": "voyage"
+    },
+    {
+      "term": "写真",
+      "reading": "しゃしん",
+      "meaning": "photo"
+    },
+    {
+      "term": "映画",
+      "reading": "えいが",
+      "meaning": "film"
+    },
+    {
+      "term": "音楽",
+      "reading": "おんがく",
+      "meaning": "musique"
+    },
+    {
+      "term": "運動",
+      "reading": "うんどう",
+      "meaning": "exercice"
+    },
+    {
+      "term": "病院",
+      "reading": "びょういん",
+      "meaning": "hôpital"
+    },
+    {
+      "term": "薬",
+      "reading": "くすり",
+      "meaning": "médicament"
+    },
+    {
+      "term": "習慣",
+      "reading": "しゅうかん",
+      "meaning": "habitude"
+    },
+    {
+      "term": "気持ち",
+      "reading": "きもち",
+      "meaning": "sentiment"
+    },
+    {
+      "term": "気分",
+      "reading": "きぶん",
+      "meaning": "humeur"
+    },
+    {
+      "term": "大丈夫",
+      "reading": "だいじょうぶ",
+      "meaning": "ça va"
+    },
+    {
+      "term": "便利",
+      "reading": "べんり",
+      "meaning": "pratique"
+    }
+  ]
+}
