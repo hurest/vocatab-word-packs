@@ -1,0 +1,134 @@
+{
+  "sourceLanguage": "ko",
+  "targetLanguage": "en",
+  "name": "English Time Expressions",
+  "description": "Common English words and expressions for discussing time.",
+  "tags": [
+    "basics",
+    "time"
+  ],
+  "localizations": {
+    "en": {
+      "name": "English Time Expressions",
+      "description": "Common English words and expressions for discussing time."
+    },
+    "ja": {
+      "name": "英語の時間表現",
+      "description": "時刻や時間について話すときによく使う英語の単語と表現です。"
+    },
+    "ko": {
+      "name": "영어 시간 표현",
+      "description": "시간을 말하고 이야기할 때 자주 쓰는 영어 단어와 표현 모음입니다."
+    },
+    "fr": {
+      "name": "Expressions temporelles anglaises",
+      "description": "Les mots et expressions courants en anglais pour parler du temps et de l’heure."
+    },
+    "de": {
+      "name": "Englische Zeitausdrücke",
+      "description": "Häufige Wörter und Ausdrücke auf Englisch, um über Zeit und Uhrzeit zu sprechen."
+    }
+  },
+  "words": [
+    {
+      "term": "time",
+      "reading": "/taɪm/",
+      "meaning": "시간"
+    },
+    {
+      "term": "o’clock",
+      "reading": "/əˈklɑːk/",
+      "meaning": "~시"
+    },
+    {
+      "term": "minute",
+      "reading": "/ˈmɪnɪt/",
+      "meaning": "~분"
+    },
+    {
+      "term": "second",
+      "reading": "/ˈsɛkənd/",
+      "meaning": "~초"
+    },
+    {
+      "term": "half past",
+      "reading": "/hæf pæst/",
+      "meaning": "반 (30분)"
+    },
+    {
+      "term": "a.m.",
+      "reading": "/ˌeɪ ˈɛm/",
+      "meaning": "오전"
+    },
+    {
+      "term": "p.m.",
+      "reading": "/ˌpiː ˈɛm/",
+      "meaning": "오후"
+    },
+    {
+      "term": "morning",
+      "reading": "/ˈmɔːrnɪŋ/",
+      "meaning": "아침"
+    },
+    {
+      "term": "noon",
+      "reading": "/nuːn/",
+      "meaning": "낮, 점심때"
+    },
+    {
+      "term": "night",
+      "reading": "/naɪt/",
+      "meaning": "밤"
+    },
+    {
+      "term": "evening",
+      "reading": "/ˈiːvnɪŋ/",
+      "meaning": "저녁 무렵"
+    },
+    {
+      "term": "late at night",
+      "reading": "/leɪt æt naɪt/",
+      "meaning": "심야"
+    },
+    {
+      "term": "now",
+      "reading": "/naʊ/",
+      "meaning": "지금"
+    },
+    {
+      "term": "what time",
+      "reading": "/wʌt taɪm/",
+      "meaning": "몇 시"
+    },
+    {
+      "term": "clock",
+      "reading": "/klɑːk/",
+      "meaning": "시계"
+    },
+    {
+      "term": "early",
+      "reading": "/ˈɝːli/",
+      "meaning": "이르다, 빠르다"
+    },
+    {
+      "term": "late",
+      "reading": "/leɪt/",
+      "meaning": "늦다, 느리다"
+    },
+    {
+      "term": "lunch break",
+      "reading": "/lʌntʃ breɪk/",
+      "meaning": "점심시간"
+    },
+    {
+      "term": "deadline",
+      "reading": "/ˈdɛdlaɪn/",
+      "meaning": "마감"
+    },
+    {
+      "term": "soon",
+      "reading": "/suːn/",
+      "meaning": "슬슬, 이제 곧"
+    }
+  ]
+}

@@ -4,6 +4,7 @@ import process from "node:process";
 
 const MAX_FILE_SIZE = 5 * 1024 * 1024;
 const MAX_WORDS = 10_000;
+const SUPPORTED_LANGUAGES = new Set(["en", "ja", "ko", "fr", "de"]);
 const ROOTS = ["packs", "examples"];
 const FILE_NAME_PATTERN = /^[a-z0-9]+(?:-[a-z0-9]+)*\.json$/;
 const DIRECTORY_NAME_PATTERN = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
@@ -120,11 +121,14 @@ async function validateFile(filePath) {
 
   reportUnknownKeys(filePath, pack, ALLOWED_PACK_KEYS);
 
-  if (pack.sourceLanguage !== "ko") {
-    errors.push(`${filePath}: sourceLanguage must be "ko".`);
+  if (!SUPPORTED_LANGUAGES.has(pack.sourceLanguage)) {
+    errors.push(`${filePath}: sourceLanguage is not supported.`);
   }
-  if (pack.targetLanguage !== "ja") {
-    errors.push(`${filePath}: targetLanguage must be "ja".`);
+  if (!SUPPORTED_LANGUAGES.has(pack.targetLanguage)) {
+    errors.push(`${filePath}: targetLanguage is not supported.`);
+  }
+  if (pack.sourceLanguage === pack.targetLanguage) {
+    errors.push(`${filePath}: sourceLanguage and targetLanguage must differ.`);
   }
   if (
     filePath.startsWith(`packs${path.sep}`) &&
@@ -193,11 +197,12 @@ async function validateFile(filePath) {
     }
     seenInPack.add(key);
 
-    const previous = seenAcrossPacks.get(key);
+    const directionKey = `${pack.sourceLanguage}-${pack.targetLanguage}\u0000${key}`;
+    const previous = seenAcrossPacks.get(directionKey);
     if (previous !== undefined) {
       errors.push(`${location}: exactly duplicates ${previous}.`);
     } else {
-      seenAcrossPacks.set(key, location);
+      seenAcrossPacks.set(directionKey, location);
     }
   });
 }
@@ -233,7 +238,7 @@ function validateLocalizations(location, value) {
   }
 
   for (const language of Object.keys(value)) {
-    if (language !== "ko" && language !== "ja") {
+    if (!SUPPORTED_LANGUAGES.has(language)) {
       errors.push(`${location}: unsupported localization "${language}".`);
       continue;
     }

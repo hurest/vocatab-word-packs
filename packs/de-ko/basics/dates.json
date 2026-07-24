@@ -1,0 +1,170 @@
+{
+  "sourceLanguage": "de",
+  "targetLanguage": "ko",
+  "name": "Korean Dates",
+  "description": "Korean words for days, weeks, months, years, and relative dates.",
+  "tags": [
+    "basics",
+    "dates",
+    "time"
+  ],
+  "localizations": {
+    "en": {
+      "name": "Korean Dates",
+      "description": "Korean words for days, weeks, months, years, and relative dates."
+    },
+    "ja": {
+      "name": "韓国語の日付",
+      "description": "日・週・月・年と相対的な日付を表す韓国語の単語集です。"
+    },
+    "ko": {
+      "name": "한국어 날짜",
+      "description": "일, 주, 월, 연도와 상대 날짜를 나타내는 한국어 단어 모음입니다."
+    },
+    "fr": {
+      "name": "Dates coréennes",
+      "description": "Les mots en coréen pour les jours, semaines, mois, années et dates relatives."
+    },
+    "de": {
+      "name": "Koreanische Datumsangaben",
+      "description": "Wörter auf Koreanisch für Tage, Wochen, Monate, Jahre und relative Datumsangaben."
+    }
+  },
+  "words": [
+    {
+      "term": "오늘",
+      "reading": "오늘",
+      "meaning": "heute"
+    },
+    {
+      "term": "내일",
+      "reading": "내일",
+      "meaning": "morgen"
+    },
+    {
+      "term": "어제",
+      "reading": "어제",
+      "meaning": "gestern"
+    },
+    {
+      "term": "모레",
+      "reading": "모레",
+      "meaning": "übermorgen"
+    },
+    {
+      "term": "그저께",
+      "reading": "그저께",
+      "meaning": "vorgestern"
+    },
+    {
+      "term": "매일",
+      "reading": "매일",
+      "meaning": "jeden Tag"
+    },
+    {
+      "term": "이번 주",
+      "reading": "이번 주",
+      "meaning": "diese Woche"
+    },
+    {
+      "term": "지난주",
+      "reading": "지난주",
+      "meaning": "letzte Woche"
+    },
+    {
+      "term": "다음 주",
+      "reading": "다음 주",
+      "meaning": "nächste Woche"
+    },
+    {
+      "term": "이번 달",
+      "reading": "이번 달",
+      "meaning": "dieser Monat"
+    },
+    {
+      "term": "지난달",
+      "reading": "지난달",
+      "meaning": "letzter Monat"
+    },
+    {
+      "term": "다음 달",
+      "reading": "다음 달",
+      "meaning": "nächster Monat"
+    },
+    {
+      "term": "올해",
+      "reading": "올해",
+      "meaning": "dieses Jahr"
+    },
+    {
+      "term": "작년",
+      "reading": "작년",
+      "meaning": "letztes Jahr"
+    },
+    {
+      "term": "내년",
+      "reading": "내년",
+      "meaning": "nächstes Jahr"
+    },
+    {
+      "term": "월요일",
+      "reading": "월요일",
+      "meaning": "Montag"
+    },
+    {
+      "term": "화요일",
+      "reading": "화요일",
+      "meaning": "Dienstag"
+    },
+    {
+      "term": "수요일",
+      "reading": "수요일",
+      "meaning": "Mittwoch"
+    },
+    {
+      "term": "목요일",
+      "reading": "목요일",
+      "meaning": "Donnerstag"
+    },
+    {
+      "term": "금요일",
+      "reading": "금요일",
+      "meaning": "Freitag"
+    },
+    {
+      "term": "토요일",
+      "reading": "토요일",
+      "meaning": "Samstag"
+    },
+    {
+      "term": "일요일",
+      "reading": "일요일",
+      "meaning": "Sonntag"
+    },
+    {
+      "term": "주말",
+      "reading": "주말",
+      "meaning": "Wochenende"
+    },
+    {
+      "term": "요일",
+      "reading": "요일",
+      "meaning": "Wochentag"
+    },
+    {
+      "term": "날짜",
+      "reading": "날짜",
+      "meaning": "Datum"
+    },
+    {
+      "term": "생일",
+      "reading": "생일",
+      "meaning": "Geburtstag"
+    },
+    {
+      "term": "공휴일",
+      "reading": "공휴일",
+      "meaning": "Feiertag"
+    }
+  ]
+}

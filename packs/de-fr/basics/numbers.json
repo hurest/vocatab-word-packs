@@ -1,0 +1,159 @@
+{
+  "sourceLanguage": "de",
+  "targetLanguage": "fr",
+  "name": "French Numbers",
+  "description": "Common French numbers and counting expressions for beginner study.",
+  "tags": [
+    "basics",
+    "numbers"
+  ],
+  "localizations": {
+    "en": {
+      "name": "French Numbers",
+      "description": "Common French numbers and counting expressions for beginner study."
+    },
+    "ja": {
+      "name": "フランス語の数字",
+      "description": "初級学習者向けのフランス語の数字と数え方を集めています。"
+    },
+    "ko": {
+      "name": "프랑스어 숫자",
+      "description": "초급 학습자를 위한 프랑스어 숫자와 수 표현 모음입니다."
+    },
+    "fr": {
+      "name": "Nombres français",
+      "description": "Les nombres et expressions de comptage courants en français pour débuter."
+    },
+    "de": {
+      "name": "Französische Zahlen",
+      "description": "Häufige Zahlen und Zählausdrücke auf Französisch für den Einstieg."
+    }
+  },
+  "words": [
+    {
+      "term": "un",
+      "reading": "un",
+      "meaning": "eins"
+    },
+    {
+      "term": "deux",
+      "reading": "deux",
+      "meaning": "zwei"
+    },
+    {
+      "term": "trois",
+      "reading": "trois",
+      "meaning": "drei"
+    },
+    {
+      "term": "quatre",
+      "reading": "quatre",
+      "meaning": "vier"
+    },
+    {
+      "term": "cinq",
+      "reading": "cinq",
+      "meaning": "fünf"
+    },
+    {
+      "term": "six",
+      "reading": "six",
+      "meaning": "sechs"
+    },
+    {
+      "term": "sept",
+      "reading": "sept",
+      "meaning": "sieben"
+    },
+    {
+      "term": "huit",
+      "reading": "huit",
+      "meaning": "acht"
+    },
+    {
+      "term": "neuf",
+      "reading": "neuf",
+      "meaning": "neun"
+    },
+    {
+      "term": "dix",
+      "reading": "dix",
+      "meaning": "zehn"
+    },
+    {
+      "term": "cent",
+      "reading": "cent",
+      "meaning": "hundert"
+    },
+    {
+      "term": "mille",
+      "reading": "mille",
+      "meaning": "tausend"
+    },
+    {
+      "term": "dix mille",
+      "reading": "dix mille",
+      "meaning": "zehntausend"
+    },
+    {
+      "term": "cent millions",
+      "reading": "cent millions",
+      "meaning": "hundert Millionen"
+    },
+    {
+      "term": "un objet",
+      "reading": "un objet",
+      "meaning": "ein Gegenstand"
+    },
+    {
+      "term": "deux objets",
+      "reading": "deux objets",
+      "meaning": "zwei Gegenstände"
+    },
+    {
+      "term": "trois objets",
+      "reading": "trois objets",
+      "meaning": "drei Gegenstände"
+    },
+    {
+      "term": "moitié",
+      "reading": "moitié",
+      "meaning": "Hälfte"
+    },
+    {
+      "term": "nombre",
+      "reading": "nombre",
+      "meaning": "Anzahl"
+    },
+    {
+      "term": "numéro",
+      "reading": "numéro",
+      "meaning": "Nummer"
+    },
+    {
+      "term": "objets",
+      "reading": "objets",
+      "meaning": "Gegenstände"
+    },
+    {
+      "term": "personnes",
+      "reading": "personnes",
+      "meaning": "Personen"
+    },
+    {
+      "term": "fois",
+      "reading": "fois",
+      "meaning": "Mal"
+    },
+    {
+      "term": "ans",
+      "reading": "ans",
+      "meaning": "Jahre alt"
+    },
+    {
+      "term": "yens",
+      "reading": "yens",
+      "meaning": "Yen"
+    }
+  ]
+}

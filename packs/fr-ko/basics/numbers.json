@@ -1,0 +1,159 @@
+{
+  "sourceLanguage": "fr",
+  "targetLanguage": "ko",
+  "name": "Korean Numbers",
+  "description": "Common Korean numbers and counting expressions for beginner study.",
+  "tags": [
+    "basics",
+    "numbers"
+  ],
+  "localizations": {
+    "en": {
+      "name": "Korean Numbers",
+      "description": "Common Korean numbers and counting expressions for beginner study."
+    },
+    "ja": {
+      "name": "韓国語の数字",
+      "description": "初級学習者向けの韓国語の数字と数え方を集めています。"
+    },
+    "ko": {
+      "name": "한국어 숫자",
+      "description": "초급 학습자를 위한 한국어 숫자와 수 표현 모음입니다."
+    },
+    "fr": {
+      "name": "Nombres coréens",
+      "description": "Les nombres et expressions de comptage courants en coréen pour débuter."
+    },
+    "de": {
+      "name": "Koreanische Zahlen",
+      "description": "Häufige Zahlen und Zählausdrücke auf Koreanisch für den Einstieg."
+    }
+  },
+  "words": [
+    {
+      "term": "일, 1",
+      "reading": "일, 1",
+      "meaning": "un"
+    },
+    {
+      "term": "이, 2",
+      "reading": "이, 2",
+      "meaning": "deux"
+    },
+    {
+      "term": "삼, 3",
+      "reading": "삼, 3",
+      "meaning": "trois"
+    },
+    {
+      "term": "사, 4",
+      "reading": "사, 4",
+      "meaning": "quatre"
+    },
+    {
+      "term": "오, 5",
+      "reading": "오, 5",
+      "meaning": "cinq"
+    },
+    {
+      "term": "육, 6",
+      "reading": "육, 6",
+      "meaning": "six"
+    },
+    {
+      "term": "칠, 7",
+      "reading": "칠, 7",
+      "meaning": "sept"
+    },
+    {
+      "term": "팔, 8",
+      "reading": "팔, 8",
+      "meaning": "huit"
+    },
+    {
+      "term": "구, 9",
+      "reading": "구, 9",
+      "meaning": "neuf"
+    },
+    {
+      "term": "십, 10",
+      "reading": "십, 10",
+      "meaning": "dix"
+    },
+    {
+      "term": "백, 100",
+      "reading": "백, 100",
+      "meaning": "cent"
+    },
+    {
+      "term": "천, 1,000",
+      "reading": "천, 1,000",
+      "meaning": "mille"
+    },
+    {
+      "term": "만, 10,000",
+      "reading": "만, 10,000",
+      "meaning": "dix mille"
+    },
+    {
+      "term": "억",
+      "reading": "억",
+      "meaning": "cent millions"
+    },
+    {
+      "term": "한 개, 하나",
+      "reading": "한 개, 하나",
+      "meaning": "un objet"
+    },
+    {
+      "term": "두 개, 둘",
+      "reading": "두 개, 둘",
+      "meaning": "deux objets"
+    },
+    {
+      "term": "세 개, 셋",
+      "reading": "세 개, 셋",
+      "meaning": "trois objets"
+    },
+    {
+      "term": "절반",
+      "reading": "절반",
+      "meaning": "moitié"
+    },
+    {
+      "term": "수, 개수",
+      "reading": "수, 개수",
+      "meaning": "nombre"
+    },
+    {
+      "term": "번호",
+      "reading": "번호",
+      "meaning": "numéro"
+    },
+    {
+      "term": "~개 (물건 세는 단위)",
+      "reading": "~개 (물건 세는 단위)",
+      "meaning": "objets"
+    },
+    {
+      "term": "~명 (사람 세는 단위)",
+      "reading": "~명 (사람 세는 단위)",
+      "meaning": "personnes"
+    },
+    {
+      "term": "~번, ~회",
+      "reading": "~번, ~회",
+      "meaning": "fois"
+    },
+    {
+      "term": "~살, ~세",
+      "reading": "~살, ~세",
+      "meaning": "ans"
+    },
+    {
+      "term": "~엔 (일본 화폐)",
+      "reading": "~엔 (일본 화폐)",
+      "meaning": "yens"
+    }
+  ]
+}

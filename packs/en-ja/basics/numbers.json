@@ -1,0 +1,159 @@
+{
+  "sourceLanguage": "en",
+  "targetLanguage": "ja",
+  "name": "Japanese Numbers",
+  "description": "Common Japanese numbers and counting expressions for beginner study.",
+  "tags": [
+    "basics",
+    "numbers"
+  ],
+  "localizations": {
+    "en": {
+      "name": "Japanese Numbers",
+      "description": "Common Japanese numbers and counting expressions for beginner study."
+    },
+    "ja": {
+      "name": "日本語の数字",
+      "description": "初級学習者向けの日本語の数字と数え方を集めています。"
+    },
+    "ko": {
+      "name": "일본어 숫자",
+      "description": "초급 학습자를 위한 일본어 숫자와 수 표현 모음입니다."
+    },
+    "fr": {
+      "name": "Nombres japonais",
+      "description": "Les nombres et expressions de comptage courants en japonais pour débuter."
+    },
+    "de": {
+      "name": "Japanische Zahlen",
+      "description": "Häufige Zahlen und Zählausdrücke auf Japanisch für den Einstieg."
+    }
+  },
+  "words": [
+    {
+      "term": "一",
+      "reading": "いち",
+      "meaning": "one"
+    },
+    {
+      "term": "二",
+      "reading": "に",
+      "meaning": "two"
+    },
+    {
+      "term": "三",
+      "reading": "さん",
+      "meaning": "three"
+    },
+    {
+      "term": "四",
+      "reading": "よん",
+      "meaning": "four"
+    },
+    {
+      "term": "五",
+      "reading": "ご",
+      "meaning": "five"
+    },
+    {
+      "term": "六",
+      "reading": "ろく",
+      "meaning": "six"
+    },
+    {
+      "term": "七",
+      "reading": "なな",
+      "meaning": "seven"
+    },
+    {
+      "term": "八",
+      "reading": "はち",
+      "meaning": "eight"
+    },
+    {
+      "term": "九",
+      "reading": "きゅう",
+      "meaning": "nine"
+    },
+    {
+      "term": "十",
+      "reading": "じゅう",
+      "meaning": "ten"
+    },
+    {
+      "term": "百",
+      "reading": "ひゃく",
+      "meaning": "one hundred"
+    },
+    {
+      "term": "千",
+      "reading": "せん",
+      "meaning": "one thousand"
+    },
+    {
+      "term": "万",
+      "reading": "まん",
+      "meaning": "ten thousand"
+    },
+    {
+      "term": "億",
+      "reading": "おく",
+      "meaning": "one hundred million"
+    },
+    {
+      "term": "一つ",
+      "reading": "ひとつ",
+      "meaning": "one item"
+    },
+    {
+      "term": "二つ",
+      "reading": "ふたつ",
+      "meaning": "two items"
+    },
+    {
+      "term": "三つ",
+      "reading": "みっつ",
+      "meaning": "three items"
+    },
+    {
+      "term": "半分",
+      "reading": "はんぶん",
+      "meaning": "half"
+    },
+    {
+      "term": "数",
+      "reading": "かず",
+      "meaning": "number"
+    },
+    {
+      "term": "番号",
+      "reading": "ばんごう",
+      "meaning": "identification number"
+    },
+    {
+      "term": "〜個",
+      "reading": "〜こ",
+      "meaning": "items"
+    },
+    {
+      "term": "〜人",
+      "reading": "〜にん",
+      "meaning": "people"
+    },
+    {
+      "term": "〜回",
+      "reading": "〜かい",
+      "meaning": "times"
+    },
+    {
+      "term": "〜歳",
+      "reading": "〜さい",
+      "meaning": "years old"
+    },
+    {
+      "term": "〜円",
+      "reading": "〜えん",
+      "meaning": "yen"
+    }
+  ]
+}

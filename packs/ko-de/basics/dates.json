@@ -1,0 +1,170 @@
+{
+  "sourceLanguage": "ko",
+  "targetLanguage": "de",
+  "name": "German Dates",
+  "description": "German words for days, weeks, months, years, and relative dates.",
+  "tags": [
+    "basics",
+    "dates",
+    "time"
+  ],
+  "localizations": {
+    "en": {
+      "name": "German Dates",
+      "description": "German words for days, weeks, months, years, and relative dates."
+    },
+    "ja": {
+      "name": "ドイツ語の日付",
+      "description": "日・週・月・年と相対的な日付を表すドイツ語の単語集です。"
+    },
+    "ko": {
+      "name": "독일어 날짜",
+      "description": "일, 주, 월, 연도와 상대 날짜를 나타내는 독일어 단어 모음입니다."
+    },
+    "fr": {
+      "name": "Dates allemandes",
+      "description": "Les mots en allemand pour les jours, semaines, mois, années et dates relatives."
+    },
+    "de": {
+      "name": "Deutsche Datumsangaben",
+      "description": "Wörter auf Deutsch für Tage, Wochen, Monate, Jahre und relative Datumsangaben."
+    }
+  },
+  "words": [
+    {
+      "term": "heute",
+      "reading": "heute",
+      "meaning": "오늘"
+    },
+    {
+      "term": "morgen",
+      "reading": "morgen",
+      "meaning": "내일"
+    },
+    {
+      "term": "gestern",
+      "reading": "gestern",
+      "meaning": "어제"
+    },
+    {
+      "term": "übermorgen",
+      "reading": "übermorgen",
+      "meaning": "모레"
+    },
+    {
+      "term": "vorgestern",
+      "reading": "vorgestern",
+      "meaning": "그저께"
+    },
+    {
+      "term": "jeden Tag",
+      "reading": "jeden Tag",
+      "meaning": "매일"
+    },
+    {
+      "term": "diese Woche",
+      "reading": "diese Woche",
+      "meaning": "이번 주"
+    },
+    {
+      "term": "letzte Woche",
+      "reading": "letzte Woche",
+      "meaning": "지난주"
+    },
+    {
+      "term": "nächste Woche",
+      "reading": "nächste Woche",
+      "meaning": "다음 주"
+    },
+    {
+      "term": "dieser Monat",
+      "reading": "dieser Monat",
+      "meaning": "이번 달"
+    },
+    {
+      "term": "letzter Monat",
+      "reading": "letzter Monat",
+      "meaning": "지난달"
+    },
+    {
+      "term": "nächster Monat",
+      "reading": "nächster Monat",
+      "meaning": "다음 달"
+    },
+    {
+      "term": "dieses Jahr",
+      "reading": "dieses Jahr",
+      "meaning": "올해"
+    },
+    {
+      "term": "letztes Jahr",
+      "reading": "letztes Jahr",
+      "meaning": "작년"
+    },
+    {
+      "term": "nächstes Jahr",
+      "reading": "nächstes Jahr",
+      "meaning": "내년"
+    },
+    {
+      "term": "Montag",
+      "reading": "Montag",
+      "meaning": "월요일"
+    },
+    {
+      "term": "Dienstag",
+      "reading": "Dienstag",
+      "meaning": "화요일"
+    },
+    {
+      "term": "Mittwoch",
+      "reading": "Mittwoch",
+      "meaning": "수요일"
+    },
+    {
+      "term": "Donnerstag",
+      "reading": "Donnerstag",
+      "meaning": "목요일"
+    },
+    {
+      "term": "Freitag",
+      "reading": "Freitag",
+      "meaning": "금요일"
+    },
+    {
+      "term": "Samstag",
+      "reading": "Samstag",
+      "meaning": "토요일"
+    },
+    {
+      "term": "Sonntag",
+      "reading": "Sonntag",
+      "meaning": "일요일"
+    },
+    {
+      "term": "Wochenende",
+      "reading": "Wochenende",
+      "meaning": "주말"
+    },
+    {
+      "term": "Wochentag",
+      "reading": "Wochentag",
+      "meaning": "요일"
+    },
+    {
+      "term": "Datum",
+      "reading": "Datum",
+      "meaning": "날짜"
+    },
+    {
+      "term": "Geburtstag",
+      "reading": "Geburtstag",
+      "meaning": "생일"
+    },
+    {
+      "term": "Feiertag",
+      "reading": "Feiertag",
+      "meaning": "공휴일"
+    }
+  ]
+}

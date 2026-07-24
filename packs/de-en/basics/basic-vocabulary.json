@@ -1,0 +1,184 @@
+{
+  "sourceLanguage": "de",
+  "targetLanguage": "en",
+  "name": "English Basic Vocabulary",
+  "description": "A starter collection of common English words for everyday study.",
+  "tags": [
+    "basics",
+    "daily-life"
+  ],
+  "localizations": {
+    "en": {
+      "name": "English Basic Vocabulary",
+      "description": "A starter collection of common English words for everyday study."
+    },
+    "ja": {
+      "name": "英語の基礎語彙",
+      "description": "日常学習でよく使う英語の単語を集めた入門単語パックです。"
+    },
+    "ko": {
+      "name": "영어 기초 어휘",
+      "description": "일상 학습에 자주 쓰는 영어 단어를 모은 기초 단어팩입니다."
+    },
+    "fr": {
+      "name": "Vocabulaire de base anglais",
+      "description": "Une sélection de mots courants en anglais pour débuter."
+    },
+    "de": {
+      "name": "Englischer Grundwortschatz",
+      "description": "Eine Sammlung häufiger Wörter auf Englisch für den Einstieg."
+    }
+  },
+  "words": [
+    {
+      "term": "study",
+      "reading": "/ˈstʌdi/",
+      "meaning": "Lernen"
+    },
+    {
+      "term": "work",
+      "reading": "/wɝːk/",
+      "meaning": "Arbeit"
+    },
+    {
+      "term": "meeting",
+      "reading": "/ˈmiːtɪŋ/",
+      "meaning": "Besprechung"
+    },
+    {
+      "term": "appointment",
+      "reading": "/əˈpɔɪntmənt/",
+      "meaning": "Termin"
+    },
+    {
+      "term": "preparation",
+      "reading": "/ˌprɛpəˈreɪʃən/",
+      "meaning": "Vorbereitung"
+    },
+    {
+      "term": "experience",
+      "reading": "/ɪkˈspɪriəns/",
+      "meaning": "Erfahrung"
+    },
+    {
+      "term": "explanation",
+      "reading": "/ˌɛkspləˈneɪʃən/",
+      "meaning": "Erklärung"
+    },
+    {
+      "term": "schedule",
+      "reading": "/ˈskɛdʒuːl/",
+      "meaning": "Zeitplan"
+    },
+    {
+      "term": "consultation",
+      "reading": "/ˌkɑːnsəlˈteɪʃən/",
+      "meaning": "Beratung"
+    },
+    {
+      "term": "contact",
+      "reading": "/ˈkɑːntækt/",
+      "meaning": "Kontakt"
+    },
+    {
+      "term": "confirmation",
+      "reading": "/ˌkɑːnfɚˈmeɪʃən/",
+      "meaning": "Bestätigung"
+    },
+    {
+      "term": "overtime",
+      "reading": "/ˈoʊvɚtaɪm/",
+      "meaning": "Überstunden"
+    },
+    {
+      "term": "lateness",
+      "reading": "/ˈleɪtnəs/",
+      "meaning": "Verspätung"
+    },
+    {
+      "term": "business trip",
+      "reading": "/ˈbɪznəs trɪp/",
+      "meaning": "Dienstreise"
+    },
+    {
+      "term": "report",
+      "reading": "/rɪˈpɔːrt/",
+      "meaning": "Bericht"
+    },
+    {
+      "term": "weather",
+      "reading": "/ˈwɛðɚ/",
+      "meaning": "Wetter"
+    },
+    {
+      "term": "shopping",
+      "reading": "/ˈʃɑːpɪŋ/",
+      "meaning": "Einkaufen"
+    },
+    {
+      "term": "cooking",
+      "reading": "/ˈkʊkɪŋ/",
+      "meaning": "Kochen"
+    },
+    {
+      "term": "travel",
+      "reading": "/ˈtrævəl/",
+      "meaning": "Reise"
+    },
+    {
+      "term": "photograph",
+      "reading": "/ˈfoʊtəɡræf/",
+      "meaning": "Foto"
+    },
+    {
+      "term": "movie",
+      "reading": "/ˈmuːvi/",
+      "meaning": "Film"
+    },
+    {
+      "term": "music",
+      "reading": "/ˈmjuːzɪk/",
+      "meaning": "Musik"
+    },
+    {
+      "term": "exercise",
+      "reading": "/ˈɛksɚsaɪz/",
+      "meaning": "Sport"
+    },
+    {
+      "term": "hospital",
+      "reading": "/ˈhɑːspɪtəl/",
+      "meaning": "Krankenhaus"
+    },
+    {
+      "term": "medicine",
+      "reading": "/ˈmɛdəsən/",
+      "meaning": "Medikament"
+    },
+    {
+      "term": "habit",
+      "reading": "/ˈhæbɪt/",
+      "meaning": "Gewohnheit"
+    },
+    {
+      "term": "feeling",
+      "reading": "/ˈfiːlɪŋ/",
+      "meaning": "Gefühl"
+    },
+    {
+      "term": "mood",
+      "reading": "/muːd/",
+      "meaning": "Stimmung"
+    },
+    {
+      "term": "all right",
+      "reading": "/ˌɔːl ˈraɪt/",
+      "meaning": "in Ordnung"
+    },
+    {
+      "term": "convenient",
+      "reading": "/kənˈviːniənt/",
+      "meaning": "praktisch"
+    }
+  ]
+}

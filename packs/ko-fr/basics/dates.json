@@ -1,0 +1,170 @@
+{
+  "sourceLanguage": "ko",
+  "targetLanguage": "fr",
+  "name": "French Dates",
+  "description": "French words for days, weeks, months, years, and relative dates.",
+  "tags": [
+    "basics",
+    "dates",
+    "time"
+  ],
+  "localizations": {
+    "en": {
+      "name": "French Dates",
+      "description": "French words for days, weeks, months, years, and relative dates."
+    },
+    "ja": {
+      "name": "フランス語の日付",
+      "description": "日・週・月・年と相対的な日付を表すフランス語の単語集です。"
+    },
+    "ko": {
+      "name": "프랑스어 날짜",
+      "description": "일, 주, 월, 연도와 상대 날짜를 나타내는 프랑스어 단어 모음입니다."
+    },
+    "fr": {
+      "name": "Dates françaises",
+      "description": "Les mots en français pour les jours, semaines, mois, années et dates relatives."
+    },
+    "de": {
+      "name": "Französische Datumsangaben",
+      "description": "Wörter auf Französisch für Tage, Wochen, Monate, Jahre und relative Datumsangaben."
+    }
+  },
+  "words": [
+    {
+      "term": "aujourd’hui",
+      "reading": "aujourd’hui",
+      "meaning": "오늘"
+    },
+    {
+      "term": "demain",
+      "reading": "demain",
+      "meaning": "내일"
+    },
+    {
+      "term": "hier",
+      "reading": "hier",
+      "meaning": "어제"
+    },
+    {
+      "term": "après-demain",
+      "reading": "après-demain",
+      "meaning": "모레"
+    },
+    {
+      "term": "avant-hier",
+      "reading": "avant-hier",
+      "meaning": "그저께"
+    },
+    {
+      "term": "tous les jours",
+      "reading": "tous les jours",
+      "meaning": "매일"
+    },
+    {
+      "term": "cette semaine",
+      "reading": "cette semaine",
+      "meaning": "이번 주"
+    },
+    {
+      "term": "la semaine dernière",
+      "reading": "la semaine dernière",
+      "meaning": "지난주"
+    },
+    {
+      "term": "la semaine prochaine",
+      "reading": "la semaine prochaine",
+      "meaning": "다음 주"
+    },
+    {
+      "term": "ce mois-ci",
+      "reading": "ce mois-ci",
+      "meaning": "이번 달"
+    },
+    {
+      "term": "le mois dernier",
+      "reading": "le mois dernier",
+      "meaning": "지난달"
+    },
+    {
+      "term": "le mois prochain",
+      "reading": "le mois prochain",
+      "meaning": "다음 달"
+    },
+    {
+      "term": "cette année",
+      "reading": "cette année",
+      "meaning": "올해"
+    },
+    {
+      "term": "l’année dernière",
+      "reading": "l’année dernière",
+      "meaning": "작년"
+    },
+    {
+      "term": "l’année prochaine",
+      "reading": "l’année prochaine",
+      "meaning": "내년"
+    },
+    {
+      "term": "lundi",
+      "reading": "lundi",
+      "meaning": "월요일"
+    },
+    {
+      "term": "mardi",
+      "reading": "mardi",
+      "meaning": "화요일"
+    },
+    {
+      "term": "mercredi",
+      "reading": "mercredi",
+      "meaning": "수요일"
+    },
+    {
+      "term": "jeudi",
+      "reading": "jeudi",
+      "meaning": "목요일"
+    },
+    {
+      "term": "vendredi",
+      "reading": "vendredi",
+      "meaning": "금요일"
+    },
+    {
+      "term": "samedi",
+      "reading": "samedi",
+      "meaning": "토요일"
+    },
+    {
+      "term": "dimanche",
+      "reading": "dimanche",
+      "meaning": "일요일"
+    },
+    {
+      "term": "week-end",
+      "reading": "week-end",
+      "meaning": "주말"
+    },
+    {
+      "term": "jour de la semaine",
+      "reading": "jour de la semaine",
+      "meaning": "요일"
+    },
+    {
+      "term": "date",
+      "reading": "date",
+      "meaning": "날짜"
+    },
+    {
+      "term": "anniversaire",
+      "reading": "anniversaire",
+      "meaning": "생일"
+    },
+    {
+      "term": "jour férié",
+      "reading": "jour férié",
+      "meaning": "공휴일"
+    }
+  ]
+}

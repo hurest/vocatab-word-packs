@@ -1,0 +1,184 @@
+{
+  "sourceLanguage": "de",
+  "targetLanguage": "fr",
+  "name": "French Basic Vocabulary",
+  "description": "A starter collection of common French words for everyday study.",
+  "tags": [
+    "basics",
+    "daily-life"
+  ],
+  "localizations": {
+    "en": {
+      "name": "French Basic Vocabulary",
+      "description": "A starter collection of common French words for everyday study."
+    },
+    "ja": {
+      "name": "フランス語の基礎語彙",
+      "description": "日常学習でよく使うフランス語の単語を集めた入門単語パックです。"
+    },
+    "ko": {
+      "name": "프랑스어 기초 어휘",
+      "description": "일상 학습에 자주 쓰는 프랑스어 단어를 모은 기초 단어팩입니다."
+    },
+    "fr": {
+      "name": "Vocabulaire de base français",
+      "description": "Une sélection de mots courants en français pour débuter."
+    },
+    "de": {
+      "name": "Französischer Grundwortschatz",
+      "description": "Eine Sammlung häufiger Wörter auf Französisch für den Einstieg."
+    }
+  },
+  "words": [
+    {
+      "term": "étude",
+      "reading": "étude",
+      "meaning": "Lernen"
+    },
+    {
+      "term": "travail",
+      "reading": "travail",
+      "meaning": "Arbeit"
+    },
+    {
+      "term": "réunion",
+      "reading": "réunion",
+      "meaning": "Besprechung"
+    },
+    {
+      "term": "rendez-vous",
+      "reading": "rendez-vous",
+      "meaning": "Termin"
+    },
+    {
+      "term": "préparation",
+      "reading": "préparation",
+      "meaning": "Vorbereitung"
+    },
+    {
+      "term": "expérience",
+      "reading": "expérience",
+      "meaning": "Erfahrung"
+    },
+    {
+      "term": "explication",
+      "reading": "explication",
+      "meaning": "Erklärung"
+    },
+    {
+      "term": "programme",
+      "reading": "programme",
+      "meaning": "Zeitplan"
+    },
+    {
+      "term": "consultation",
+      "reading": "consultation",
+      "meaning": "Beratung"
+    },
+    {
+      "term": "contact",
+      "reading": "contact",
+      "meaning": "Kontakt"
+    },
+    {
+      "term": "confirmation",
+      "reading": "confirmation",
+      "meaning": "Bestätigung"
+    },
+    {
+      "term": "heures supplémentaires",
+      "reading": "heures supplémentaires",
+      "meaning": "Überstunden"
+    },
+    {
+      "term": "retard",
+      "reading": "retard",
+      "meaning": "Verspätung"
+    },
+    {
+      "term": "voyage d’affaires",
+      "reading": "voyage d’affaires",
+      "meaning": "Dienstreise"
+    },
+    {
+      "term": "rapport",
+      "reading": "rapport",
+      "meaning": "Bericht"
+    },
+    {
+      "term": "temps",
+      "reading": "temps",
+      "meaning": "Wetter"
+    },
+    {
+      "term": "courses",
+      "reading": "courses",
+      "meaning": "Einkaufen"
+    },
+    {
+      "term": "cuisine",
+      "reading": "cuisine",
+      "meaning": "Kochen"
+    },
+    {
+      "term": "voyage",
+      "reading": "voyage",
+      "meaning": "Reise"
+    },
+    {
+      "term": "photo",
+      "reading": "photo",
+      "meaning": "Foto"
+    },
+    {
+      "term": "film",
+      "reading": "film",
+      "meaning": "Film"
+    },
+    {
+      "term": "musique",
+      "reading": "musique",
+      "meaning": "Musik"
+    },
+    {
+      "term": "exercice",
+      "reading": "exercice",
+      "meaning": "Sport"
+    },
+    {
+      "term": "hôpital",
+      "reading": "hôpital",
+      "meaning": "Krankenhaus"
+    },
+    {
+      "term": "médicament",
+      "reading": "médicament",
+      "meaning": "Medikament"
+    },
+    {
+      "term": "habitude",
+      "reading": "habitude",
+      "meaning": "Gewohnheit"
+    },
+    {
+      "term": "sentiment",
+      "reading": "sentiment",
+      "meaning": "Gefühl"
+    },
+    {
+      "term": "humeur",
+      "reading": "humeur",
+      "meaning": "Stimmung"
+    },
+    {
+      "term": "ça va",
+      "reading": "ça va",
+      "meaning": "in Ordnung"
+    },
+    {
+      "term": "pratique",
+      "reading": "pratique",
+      "meaning": "praktisch"
+    }
+  ]
+}

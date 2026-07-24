@@ -8,8 +8,8 @@ decide whether a word pack is trustworthy.
 1. Check the Pull Request's sources and license.
 2. Check automated validation.
 3. Verify the source and target language direction.
-4. Verify Japanese terms and readings.
-5. Verify that Korean meanings fit the context and level.
+4. Verify target-language terms and readings.
+5. Verify that source-language meanings fit the context and level.
 6. Check for duplicates, advertising, personal information, and harmful content.
 7. Confirm that the English default metadata, localized metadata, tags, and
    category accurately describe the pack.

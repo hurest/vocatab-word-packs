@@ -1,0 +1,134 @@
+{
+  "sourceLanguage": "en",
+  "targetLanguage": "fr",
+  "name": "French Time Expressions",
+  "description": "Common French words and expressions for discussing time.",
+  "tags": [
+    "basics",
+    "time"
+  ],
+  "localizations": {
+    "en": {
+      "name": "French Time Expressions",
+      "description": "Common French words and expressions for discussing time."
+    },
+    "ja": {
+      "name": "フランス語の時間表現",
+      "description": "時刻や時間について話すときによく使うフランス語の単語と表現です。"
+    },
+    "ko": {
+      "name": "프랑스어 시간 표현",
+      "description": "시간을 말하고 이야기할 때 자주 쓰는 프랑스어 단어와 표현 모음입니다."
+    },
+    "fr": {
+      "name": "Expressions temporelles françaises",
+      "description": "Les mots et expressions courants en français pour parler du temps et de l’heure."
+    },
+    "de": {
+      "name": "Französische Zeitausdrücke",
+      "description": "Häufige Wörter und Ausdrücke auf Französisch, um über Zeit und Uhrzeit zu sprechen."
+    }
+  },
+  "words": [
+    {
+      "term": "temps",
+      "reading": "temps",
+      "meaning": "time"
+    },
+    {
+      "term": "heure",
+      "reading": "heure",
+      "meaning": "o’clock"
+    },
+    {
+      "term": "minute",
+      "reading": "minute",
+      "meaning": "minute"
+    },
+    {
+      "term": "seconde",
+      "reading": "seconde",
+      "meaning": "second"
+    },
+    {
+      "term": "et demie",
+      "reading": "et demie",
+      "meaning": "half past"
+    },
+    {
+      "term": "du matin",
+      "reading": "du matin",
+      "meaning": "a.m."
+    },
+    {
+      "term": "de l’après-midi",
+      "reading": "de l’après-midi",
+      "meaning": "p.m."
+    },
+    {
+      "term": "matin",
+      "reading": "matin",
+      "meaning": "morning"
+    },
+    {
+      "term": "midi",
+      "reading": "midi",
+      "meaning": "noon"
+    },
+    {
+      "term": "nuit",
+      "reading": "nuit",
+      "meaning": "night"
+    },
+    {
+      "term": "soir",
+      "reading": "soir",
+      "meaning": "evening"
+    },
+    {
+      "term": "tard dans la nuit",
+      "reading": "tard dans la nuit",
+      "meaning": "late at night"
+    },
+    {
+      "term": "maintenant",
+      "reading": "maintenant",
+      "meaning": "now"
+    },
+    {
+      "term": "quelle heure",
+      "reading": "quelle heure",
+      "meaning": "what time"
+    },
+    {
+      "term": "horloge",
+      "reading": "horloge",
+      "meaning": "clock"
+    },
+    {
+      "term": "tôt",
+      "reading": "tôt",
+      "meaning": "early"
+    },
+    {
+      "term": "tard",
+      "reading": "tard",
+      "meaning": "late"
+    },
+    {
+      "term": "pause déjeuner",
+      "reading": "pause déjeuner",
+      "meaning": "lunch break"
+    },
+    {
+      "term": "date limite",
+      "reading": "date limite",
+      "meaning": "deadline"
+    },
+    {
+      "term": "bientôt",
+      "reading": "bientôt",
+      "meaning": "soon"
+    }
+  ]
+}

@@ -14,12 +14,17 @@
 1. Copy [`examples/word-pack.json`](examples/word-pack.json).
 2. Use a lowercase kebab-case file name.
 3. Save it under `packs/<source>-<target>/<category>/<file-name>.json`.
-   The currently supported direction is `packs/ko-ja/`.
-4. Write the default `name` and optional `description` in English. Add Korean
-   and Japanese translations under `localizations` when available.
+   Supported language codes are `en`, `ja`, `ko`, `fr`, and `de`. Source and
+   target languages must differ.
+4. Write the default `name` and optional `description` in English. Add
+   translations for supported languages under `localizations` when available.
 5. Use English kebab-case values for optional `tags`.
 6. Run `node scripts/validate-packs.mjs`.
 7. Open a Pull Request and complete its source and rights checklist.
+
+The four baseline packs in every language direction are generated from
+`scripts/generate-multilingual-packs.mjs`. Update the aligned translations and
+run that script instead of editing a generated baseline file in isolation.
 
 New category directories may be proposed in the same Pull Request. Directory
 and file names may contain lowercase English letters, numbers, and hyphens.

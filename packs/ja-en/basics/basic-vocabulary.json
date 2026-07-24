@@ -1,0 +1,184 @@
+{
+  "sourceLanguage": "ja",
+  "targetLanguage": "en",
+  "name": "English Basic Vocabulary",
+  "description": "A starter collection of common English words for everyday study.",
+  "tags": [
+    "basics",
+    "daily-life"
+  ],
+  "localizations": {
+    "en": {
+      "name": "English Basic Vocabulary",
+      "description": "A starter collection of common English words for everyday study."
+    },
+    "ja": {
+      "name": "英語の基礎語彙",
+      "description": "日常学習でよく使う英語の単語を集めた入門単語パックです。"
+    },
+    "ko": {
+      "name": "영어 기초 어휘",
+      "description": "일상 학습에 자주 쓰는 영어 단어를 모은 기초 단어팩입니다."
+    },
+    "fr": {
+      "name": "Vocabulaire de base anglais",
+      "description": "Une sélection de mots courants en anglais pour débuter."
+    },
+    "de": {
+      "name": "Englischer Grundwortschatz",
+      "description": "Eine Sammlung häufiger Wörter auf Englisch für den Einstieg."
+    }
+  },
+  "words": [
+    {
+      "term": "study",
+      "reading": "/ˈstʌdi/",
+      "meaning": "勉強"
+    },
+    {
+      "term": "work",
+      "reading": "/wɝːk/",
+      "meaning": "仕事"
+    },
+    {
+      "term": "meeting",
+      "reading": "/ˈmiːtɪŋ/",
+      "meaning": "会議"
+    },
+    {
+      "term": "appointment",
+      "reading": "/əˈpɔɪntmənt/",
+      "meaning": "約束"
+    },
+    {
+      "term": "preparation",
+      "reading": "/ˌprɛpəˈreɪʃən/",
+      "meaning": "準備"
+    },
+    {
+      "term": "experience",
+      "reading": "/ɪkˈspɪriəns/",
+      "meaning": "経験"
+    },
+    {
+      "term": "explanation",
+      "reading": "/ˌɛkspləˈneɪʃən/",
+      "meaning": "説明"
+    },
+    {
+      "term": "schedule",
+      "reading": "/ˈskɛdʒuːl/",
+      "meaning": "予定"
+    },
+    {
+      "term": "consultation",
+      "reading": "/ˌkɑːnsəlˈteɪʃən/",
+      "meaning": "相談"
+    },
+    {
+      "term": "contact",
+      "reading": "/ˈkɑːntækt/",
+      "meaning": "連絡"
+    },
+    {
+      "term": "confirmation",
+      "reading": "/ˌkɑːnfɚˈmeɪʃən/",
+      "meaning": "確認"
+    },
+    {
+      "term": "overtime",
+      "reading": "/ˈoʊvɚtaɪm/",
+      "meaning": "残業"
+    },
+    {
+      "term": "lateness",
+      "reading": "/ˈleɪtnəs/",
+      "meaning": "遅刻"
+    },
+    {
+      "term": "business trip",
+      "reading": "/ˈbɪznəs trɪp/",
+      "meaning": "出張"
+    },
+    {
+      "term": "report",
+      "reading": "/rɪˈpɔːrt/",
+      "meaning": "報告"
+    },
+    {
+      "term": "weather",
+      "reading": "/ˈwɛðɚ/",
+      "meaning": "天気"
+    },
+    {
+      "term": "shopping",
+      "reading": "/ˈʃɑːpɪŋ/",
+      "meaning": "買い物"
+    },
+    {
+      "term": "cooking",
+      "reading": "/ˈkʊkɪŋ/",
+      "meaning": "料理"
+    },
+    {
+      "term": "travel",
+      "reading": "/ˈtrævəl/",
+      "meaning": "旅行"
+    },
+    {
+      "term": "photograph",
+      "reading": "/ˈfoʊtəɡræf/",
+      "meaning": "写真"
+    },
+    {
+      "term": "movie",
+      "reading": "/ˈmuːvi/",
+      "meaning": "映画"
+    },
+    {
+      "term": "music",
+      "reading": "/ˈmjuːzɪk/",
+      "meaning": "音楽"
+    },
+    {
+      "term": "exercise",
+      "reading": "/ˈɛksɚsaɪz/",
+      "meaning": "運動"
+    },
+    {
+      "term": "hospital",
+      "reading": "/ˈhɑːspɪtəl/",
+      "meaning": "病院"
+    },
+    {
+      "term": "medicine",
+      "reading": "/ˈmɛdəsən/",
+      "meaning": "薬"
+    },
+    {
+      "term": "habit",
+      "reading": "/ˈhæbɪt/",
+      "meaning": "習慣"
+    },
+    {
+      "term": "feeling",
+      "reading": "/ˈfiːlɪŋ/",
+      "meaning": "気持ち"
+    },
+    {
+      "term": "mood",
+      "reading": "/muːd/",
+      "meaning": "気分"
+    },
+    {
+      "term": "all right",
+      "reading": "/ˌɔːl ˈraɪt/",
+      "meaning": "大丈夫"
+    },
+    {
+      "term": "convenient",
+      "reading": "/kənˈviːniənt/",
+      "meaning": "便利"
+    }
+  ]
+}

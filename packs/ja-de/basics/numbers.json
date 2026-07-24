@@ -1,0 +1,159 @@
+{
+  "sourceLanguage": "ja",
+  "targetLanguage": "de",
+  "name": "German Numbers",
+  "description": "Common German numbers and counting expressions for beginner study.",
+  "tags": [
+    "basics",
+    "numbers"
+  ],
+  "localizations": {
+    "en": {
+      "name": "German Numbers",
+      "description": "Common German numbers and counting expressions for beginner study."
+    },
+    "ja": {
+      "name": "ドイツ語の数字",
+      "description": "初級学習者向けのドイツ語の数字と数え方を集めています。"
+    },
+    "ko": {
+      "name": "독일어 숫자",
+      "description": "초급 학습자를 위한 독일어 숫자와 수 표현 모음입니다."
+    },
+    "fr": {
+      "name": "Nombres allemands",
+      "description": "Les nombres et expressions de comptage courants en allemand pour débuter."
+    },
+    "de": {
+      "name": "Deutsche Zahlen",
+      "description": "Häufige Zahlen und Zählausdrücke auf Deutsch für den Einstieg."
+    }
+  },
+  "words": [
+    {
+      "term": "eins",
+      "reading": "eins",
+      "meaning": "一"
+    },
+    {
+      "term": "zwei",
+      "reading": "zwei",
+      "meaning": "二"
+    },
+    {
+      "term": "drei",
+      "reading": "drei",
+      "meaning": "三"
+    },
+    {
+      "term": "vier",
+      "reading": "vier",
+      "meaning": "四"
+    },
+    {
+      "term": "fünf",
+      "reading": "fünf",
+      "meaning": "五"
+    },
+    {
+      "term": "sechs",
+      "reading": "sechs",
+      "meaning": "六"
+    },
+    {
+      "term": "sieben",
+      "reading": "sieben",
+      "meaning": "七"
+    },
+    {
+      "term": "acht",
+      "reading": "acht",
+      "meaning": "八"
+    },
+    {
+      "term": "neun",
+      "reading": "neun",
+      "meaning": "九"
+    },
+    {
+      "term": "zehn",
+      "reading": "zehn",
+      "meaning": "十"
+    },
+    {
+      "term": "hundert",
+      "reading": "hundert",
+      "meaning": "百"
+    },
+    {
+      "term": "tausend",
+      "reading": "tausend",
+      "meaning": "千"
+    },
+    {
+      "term": "zehntausend",
+      "reading": "zehntausend",
+      "meaning": "万"
+    },
+    {
+      "term": "hundert Millionen",
+      "reading": "hundert Millionen",
+      "meaning": "億"
+    },
+    {
+      "term": "ein Gegenstand",
+      "reading": "ein Gegenstand",
+      "meaning": "一つ"
+    },
+    {
+      "term": "zwei Gegenstände",
+      "reading": "zwei Gegenstände",
+      "meaning": "二つ"
+    },
+    {
+      "term": "drei Gegenstände",
+      "reading": "drei Gegenstände",
+      "meaning": "三つ"
+    },
+    {
+      "term": "Hälfte",
+      "reading": "Hälfte",
+      "meaning": "半分"
+    },
+    {
+      "term": "Anzahl",
+      "reading": "Anzahl",
+      "meaning": "数"
+    },
+    {
+      "term": "Nummer",
+      "reading": "Nummer",
+      "meaning": "番号"
+    },
+    {
+      "term": "Gegenstände",
+      "reading": "Gegenstände",
+      "meaning": "〜個"
+    },
+    {
+      "term": "Personen",
+      "reading": "Personen",
+      "meaning": "〜人"
+    },
+    {
+      "term": "Mal",
+      "reading": "Mal",
+      "meaning": "〜回"
+    },
+    {
+      "term": "Jahre alt",
+      "reading": "Jahre alt",
+      "meaning": "〜歳"
+    },
+    {
+      "term": "Yen",
+      "reading": "Yen",
+      "meaning": "〜円"
+    }
+  ]
+}

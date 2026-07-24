@@ -1,0 +1,170 @@
+{
+  "sourceLanguage": "de",
+  "targetLanguage": "en",
+  "name": "English Dates",
+  "description": "English words for days, weeks, months, years, and relative dates.",
+  "tags": [
+    "basics",
+    "dates",
+    "time"
+  ],
+  "localizations": {
+    "en": {
+      "name": "English Dates",
+      "description": "English words for days, weeks, months, years, and relative dates."
+    },
+    "ja": {
+      "name": "英語の日付",
+      "description": "日・週・月・年と相対的な日付を表す英語の単語集です。"
+    },
+    "ko": {
+      "name": "영어 날짜",
+      "description": "일, 주, 월, 연도와 상대 날짜를 나타내는 영어 단어 모음입니다."
+    },
+    "fr": {
+      "name": "Dates anglaises",
+      "description": "Les mots en anglais pour les jours, semaines, mois, années et dates relatives."
+    },
+    "de": {
+      "name": "Englische Datumsangaben",
+      "description": "Wörter auf Englisch für Tage, Wochen, Monate, Jahre und relative Datumsangaben."
+    }
+  },
+  "words": [
+    {
+      "term": "today",
+      "reading": "/təˈdeɪ/",
+      "meaning": "heute"
+    },
+    {
+      "term": "tomorrow",
+      "reading": "/təˈmɑːroʊ/",
+      "meaning": "morgen"
+    },
+    {
+      "term": "yesterday",
+      "reading": "/ˈjɛstɚdeɪ/",
+      "meaning": "gestern"
+    },
+    {
+      "term": "the day after tomorrow",
+      "reading": "/ðə deɪ ˈæftɚ təˈmɑːroʊ/",
+      "meaning": "übermorgen"
+    },
+    {
+      "term": "the day before yesterday",
+      "reading": "/ðə deɪ bɪˈfɔːr ˈjɛstɚdeɪ/",
+      "meaning": "vorgestern"
+    },
+    {
+      "term": "every day",
+      "reading": "/ˈɛvri deɪ/",
+      "meaning": "jeden Tag"
+    },
+    {
+      "term": "this week",
+      "reading": "/ðɪs wiːk/",
+      "meaning": "diese Woche"
+    },
+    {
+      "term": "last week",
+      "reading": "/læst wiːk/",
+      "meaning": "letzte Woche"
+    },
+    {
+      "term": "next week",
+      "reading": "/nɛkst wiːk/",
+      "meaning": "nächste Woche"
+    },
+    {
+      "term": "this month",
+      "reading": "/ðɪs mʌnθ/",
+      "meaning": "dieser Monat"
+    },
+    {
+      "term": "last month",
+      "reading": "/læst mʌnθ/",
+      "meaning": "letzter Monat"
+    },
+    {
+      "term": "next month",
+      "reading": "/nɛkst mʌnθ/",
+      "meaning": "nächster Monat"
+    },
+    {
+      "term": "this year",
+      "reading": "/ðɪs jɪr/",
+      "meaning": "dieses Jahr"
+    },
+    {
+      "term": "last year",
+      "reading": "/læst jɪr/",
+      "meaning": "letztes Jahr"
+    },
+    {
+      "term": "next year",
+      "reading": "/nɛkst jɪr/",
+      "meaning": "nächstes Jahr"
+    },
+    {
+      "term": "Monday",
+      "reading": "/ˈmʌndeɪ/",
+      "meaning": "Montag"
+    },
+    {
+      "term": "Tuesday",
+      "reading": "/ˈtuːzdeɪ/",
+      "meaning": "Dienstag"
+    },
+    {
+      "term": "Wednesday",
+      "reading": "/ˈwɛnzdeɪ/",
+      "meaning": "Mittwoch"
+    },
+    {
+      "term": "Thursday",
+      "reading": "/ˈθɝːzdeɪ/",
+      "meaning": "Donnerstag"
+    },
+    {
+      "term": "Friday",
+      "reading": "/ˈfraɪdeɪ/",
+      "meaning": "Freitag"
+    },
+    {
+      "term": "Saturday",
+      "reading": "/ˈsætɚdeɪ/",
+      "meaning": "Samstag"
+    },
+    {
+      "term": "Sunday",
+      "reading": "/ˈsʌndeɪ/",
+      "meaning": "Sonntag"
+    },
+    {
+      "term": "weekend",
+      "reading": "/ˌwiːkˈɛnd/",
+      "meaning": "Wochenende"
+    },
+    {
+      "term": "day of the week",
+      "reading": "/deɪ əv ðə wiːk/",
+      "meaning": "Wochentag"
+    },
+    {
+      "term": "date",
+      "reading": "/deɪt/",
+      "meaning": "Datum"
+    },
+    {
+      "term": "birthday",
+      "reading": "/ˈbɝːθdeɪ/",
+      "meaning": "Geburtstag"
+    },
+    {
+      "term": "public holiday",
+      "reading": "/ˈpʌblɪk ˈhɑːlədeɪ/",
+      "meaning": "Feiertag"
+    }
+  ]
+}

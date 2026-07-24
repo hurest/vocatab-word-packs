@@ -12,10 +12,10 @@
   ],
   "properties": {
     "sourceLanguage": {
-      "const": "ko"
+      "enum": ["en", "ja", "ko", "fr", "de"]
     },
     "targetLanguage": {
-      "const": "ja"
+      "enum": ["en", "ja", "ko", "fr", "de"]
     },
     "name": {
       "type": "string",
@@ -48,10 +48,19 @@
       "type": "object",
       "additionalProperties": false,
       "properties": {
-        "ko": {
+        "en": {
           "$ref": "#/$defs/localization"
         },
         "ja": {
+          "$ref": "#/$defs/localization"
+        },
+        "ko": {
+          "$ref": "#/$defs/localization"
+        },
+        "fr": {
+          "$ref": "#/$defs/localization"
+        },
+        "de": {
           "$ref": "#/$defs/localization"
         }
       }

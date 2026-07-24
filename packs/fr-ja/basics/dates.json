@@ -1,0 +1,170 @@
+{
+  "sourceLanguage": "fr",
+  "targetLanguage": "ja",
+  "name": "Japanese Dates",
+  "description": "Japanese words for days, weeks, months, years, and relative dates.",
+  "tags": [
+    "basics",
+    "dates",
+    "time"
+  ],
+  "localizations": {
+    "en": {
+      "name": "Japanese Dates",
+      "description": "Japanese words for days, weeks, months, years, and relative dates."
+    },
+    "ja": {
+      "name": "日本語の日付",
+      "description": "日・週・月・年と相対的な日付を表す日本語の単語集です。"
+    },
+    "ko": {
+      "name": "일본어 날짜",
+      "description": "일, 주, 월, 연도와 상대 날짜를 나타내는 일본어 단어 모음입니다."
+    },
+    "fr": {
+      "name": "Dates japonaises",
+      "description": "Les mots en japonais pour les jours, semaines, mois, années et dates relatives."
+    },
+    "de": {
+      "name": "Japanische Datumsangaben",
+      "description": "Wörter auf Japanisch für Tage, Wochen, Monate, Jahre und relative Datumsangaben."
+    }
+  },
+  "words": [
+    {
+      "term": "今日",
+      "reading": "きょう",
+      "meaning": "aujourd’hui"
+    },
+    {
+      "term": "明日",
+      "reading": "あした",
+      "meaning": "demain"
+    },
+    {
+      "term": "昨日",
+      "reading": "きのう",
+      "meaning": "hier"
+    },
+    {
+      "term": "明後日",
+      "reading": "あさって",
+      "meaning": "après-demain"
+    },
+    {
+      "term": "一昨日",
+      "reading": "おととい",
+      "meaning": "avant-hier"
+    },
+    {
+      "term": "毎日",
+      "reading": "まいにち",
+      "meaning": "tous les jours"
+    },
+    {
+      "term": "今週",
+      "reading": "こんしゅう",
+      "meaning": "cette semaine"
+    },
+    {
+      "term": "先週",
+      "reading": "せんしゅう",
+      "meaning": "la semaine dernière"
+    },
+    {
+      "term": "来週",
+      "reading": "らいしゅう",
+      "meaning": "la semaine prochaine"
+    },
+    {
+      "term": "今月",
+      "reading": "こんげつ",
+      "meaning": "ce mois-ci"
+    },
+    {
+      "term": "先月",
+      "reading": "せんげつ",
+      "meaning": "le mois dernier"
+    },
+    {
+      "term": "来月",
+      "reading": "らいげつ",
+      "meaning": "le mois prochain"
+    },
+    {
+      "term": "今年",
+      "reading": "ことし",
+      "meaning": "cette année"
+    },
+    {
+      "term": "去年",
+      "reading": "きょねん",
+      "meaning": "l’année dernière"
+    },
+    {
+      "term": "来年",
+      "reading": "らいねん",
+      "meaning": "l’année prochaine"
+    },
+    {
+      "term": "月曜日",
+      "reading": "げつようび",
+      "meaning": "lundi"
+    },
+    {
+      "term": "火曜日",
+      "reading": "かようび",
+      "meaning": "mardi"
+    },
+    {
+      "term": "水曜日",
+      "reading": "すいようび",
+      "meaning": "mercredi"
+    },
+    {
+      "term": "木曜日",
+      "reading": "もくようび",
+      "meaning": "jeudi"
+    },
+    {
+      "term": "金曜日",
+      "reading": "きんようび",
+      "meaning": "vendredi"
+    },
+    {
+      "term": "土曜日",
+      "reading": "どようび",
+      "meaning": "samedi"
+    },
+    {
+      "term": "日曜日",
+      "reading": "にちようび",
+      "meaning": "dimanche"
+    },
+    {
+      "term": "週末",
+      "reading": "しゅうまつ",
+      "meaning": "week-end"
+    },
+    {
+      "term": "曜日",
+      "reading": "ようび",
+      "meaning": "jour de la semaine"
+    },
+    {
+      "term": "日付",
+      "reading": "ひづけ",
+      "meaning": "date"
+    },
+    {
+      "term": "誕生日",
+      "reading": "たんじょうび",
+      "meaning": "anniversaire"
+    },
+    {
+      "term": "祝日",
+      "reading": "しゅくじつ",
+      "meaning": "jour férié"
+    }
+  ]
+}

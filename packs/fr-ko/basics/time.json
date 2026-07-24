@@ -1,0 +1,134 @@
+{
+  "sourceLanguage": "fr",
+  "targetLanguage": "ko",
+  "name": "Korean Time Expressions",
+  "description": "Common Korean words and expressions for discussing time.",
+  "tags": [
+    "basics",
+    "time"
+  ],
+  "localizations": {
+    "en": {
+      "name": "Korean Time Expressions",
+      "description": "Common Korean words and expressions for discussing time."
+    },
+    "ja": {
+      "name": "韓国語の時間表現",
+      "description": "時刻や時間について話すときによく使う韓国語の単語と表現です。"
+    },
+    "ko": {
+      "name": "한국어 시간 표현",
+      "description": "시간을 말하고 이야기할 때 자주 쓰는 한국어 단어와 표현 모음입니다."
+    },
+    "fr": {
+      "name": "Expressions temporelles coréennes",
+      "description": "Les mots et expressions courants en coréen pour parler du temps et de l’heure."
+    },
+    "de": {
+      "name": "Koreanische Zeitausdrücke",
+      "description": "Häufige Wörter und Ausdrücke auf Koreanisch, um über Zeit und Uhrzeit zu sprechen."
+    }
+  },
+  "words": [
+    {
+      "term": "시간",
+      "reading": "시간",
+      "meaning": "temps"
+    },
+    {
+      "term": "~시",
+      "reading": "~시",
+      "meaning": "heure"
+    },
+    {
+      "term": "~분",
+      "reading": "~분",
+      "meaning": "minute"
+    },
+    {
+      "term": "~초",
+      "reading": "~초",
+      "meaning": "seconde"
+    },
+    {
+      "term": "반 (30분)",
+      "reading": "반 (30분)",
+      "meaning": "et demie"
+    },
+    {
+      "term": "오전",
+      "reading": "오전",
+      "meaning": "du matin"
+    },
+    {
+      "term": "오후",
+      "reading": "오후",
+      "meaning": "de l’après-midi"
+    },
+    {
+      "term": "아침",
+      "reading": "아침",
+      "meaning": "matin"
+    },
+    {
+      "term": "낮, 점심때",
+      "reading": "낮, 점심때",
+      "meaning": "midi"
+    },
+    {
+      "term": "밤",
+      "reading": "밤",
+      "meaning": "nuit"
+    },
+    {
+      "term": "저녁 무렵",
+      "reading": "저녁 무렵",
+      "meaning": "soir"
+    },
+    {
+      "term": "심야",
+      "reading": "심야",
+      "meaning": "tard dans la nuit"
+    },
+    {
+      "term": "지금",
+      "reading": "지금",
+      "meaning": "maintenant"
+    },
+    {
+      "term": "몇 시",
+      "reading": "몇 시",
+      "meaning": "quelle heure"
+    },
+    {
+      "term": "시계",
+      "reading": "시계",
+      "meaning": "horloge"
+    },
+    {
+      "term": "이르다, 빠르다",
+      "reading": "이르다, 빠르다",
+      "meaning": "tôt"
+    },
+    {
+      "term": "늦다, 느리다",
+      "reading": "늦다, 느리다",
+      "meaning": "tard"
+    },
+    {
+      "term": "점심시간",
+      "reading": "점심시간",
+      "meaning": "pause déjeuner"
+    },
+    {
+      "term": "마감",
+      "reading": "마감",
+      "meaning": "date limite"
+    },
+    {
+      "term": "슬슬, 이제 곧",
+      "reading": "슬슬, 이제 곧",
+      "meaning": "bientôt"
+    }
+  ]
+}

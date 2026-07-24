@@ -1,0 +1,184 @@
+{
+  "sourceLanguage": "ja",
+  "targetLanguage": "de",
+  "name": "German Basic Vocabulary",
+  "description": "A starter collection of common German words for everyday study.",
+  "tags": [
+    "basics",
+    "daily-life"
+  ],
+  "localizations": {
+    "en": {
+      "name": "German Basic Vocabulary",
+      "description": "A starter collection of common German words for everyday study."
+    },
+    "ja": {
+      "name": "ドイツ語の基礎語彙",
+      "description": "日常学習でよく使うドイツ語の単語を集めた入門単語パックです。"
+    },
+    "ko": {
+      "name": "독일어 기초 어휘",
+      "description": "일상 학습에 자주 쓰는 독일어 단어를 모은 기초 단어팩입니다."
+    },
+    "fr": {
+      "name": "Vocabulaire de base allemand",
+      "description": "Une sélection de mots courants en allemand pour débuter."
+    },
+    "de": {
+      "name": "Deutscher Grundwortschatz",
+      "description": "Eine Sammlung häufiger Wörter auf Deutsch für den Einstieg."
+    }
+  },
+  "words": [
+    {
+      "term": "Lernen",
+      "reading": "Lernen",
+      "meaning": "勉強"
+    },
+    {
+      "term": "Arbeit",
+      "reading": "Arbeit",
+      "meaning": "仕事"
+    },
+    {
+      "term": "Besprechung",
+      "reading": "Besprechung",
+      "meaning": "会議"
+    },
+    {
+      "term": "Termin",
+      "reading": "Termin",
+      "meaning": "約束"
+    },
+    {
+      "term": "Vorbereitung",
+      "reading": "Vorbereitung",
+      "meaning": "準備"
+    },
+    {
+      "term": "Erfahrung",
+      "reading": "Erfahrung",
+      "meaning": "経験"
+    },
+    {
+      "term": "Erklärung",
+      "reading": "Erklärung",
+      "meaning": "説明"
+    },
+    {
+      "term": "Zeitplan",
+      "reading": "Zeitplan",
+      "meaning": "予定"
+    },
+    {
+      "term": "Beratung",
+      "reading": "Beratung",
+      "meaning": "相談"
+    },
+    {
+      "term": "Kontakt",
+      "reading": "Kontakt",
+      "meaning": "連絡"
+    },
+    {
+      "term": "Bestätigung",
+      "reading": "Bestätigung",
+      "meaning": "確認"
+    },
+    {
+      "term": "Überstunden",
+      "reading": "Überstunden",
+      "meaning": "残業"
+    },
+    {
+      "term": "Verspätung",
+      "reading": "Verspätung",
+      "meaning": "遅刻"
+    },
+    {
+      "term": "Dienstreise",
+      "reading": "Dienstreise",
+      "meaning": "出張"
+    },
+    {
+      "term": "Bericht",
+      "reading": "Bericht",
+      "meaning": "報告"
+    },
+    {
+      "term": "Wetter",
+      "reading": "Wetter",
+      "meaning": "天気"
+    },
+    {
+      "term": "Einkaufen",
+      "reading": "Einkaufen",
+      "meaning": "買い物"
+    },
+    {
+      "term": "Kochen",
+      "reading": "Kochen",
+      "meaning": "料理"
+    },
+    {
+      "term": "Reise",
+      "reading": "Reise",
+      "meaning": "旅行"
+    },
+    {
+      "term": "Foto",
+      "reading": "Foto",
+      "meaning": "写真"
+    },
+    {
+      "term": "Film",
+      "reading": "Film",
+      "meaning": "映画"
+    },
+    {
+      "term": "Musik",
+      "reading": "Musik",
+      "meaning": "音楽"
+    },
+    {
+      "term": "Sport",
+      "reading": "Sport",
+      "meaning": "運動"
+    },
+    {
+      "term": "Krankenhaus",
+      "reading": "Krankenhaus",
+      "meaning": "病院"
+    },
+    {
+      "term": "Medikament",
+      "reading": "Medikament",
+      "meaning": "薬"
+    },
+    {
+      "term": "Gewohnheit",
+      "reading": "Gewohnheit",
+      "meaning": "習慣"
+    },
+    {
+      "term": "Gefühl",
+      "reading": "Gefühl",
+      "meaning": "気持ち"
+    },
+    {
+      "term": "Stimmung",
+      "reading": "Stimmung",
+      "meaning": "気分"
+    },
+    {
+      "term": "in Ordnung",
+      "reading": "in Ordnung",
+      "meaning": "大丈夫"
+    },
+    {
+      "term": "praktisch",
+      "reading": "praktisch",
+      "meaning": "便利"
+    }
+  ]
+}
