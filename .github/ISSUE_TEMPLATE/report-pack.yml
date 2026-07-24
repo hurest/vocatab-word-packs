@@ -1,0 +1,33 @@
+name: 단어팩 오류 신고
+description: 오역, 잘못된 읽기, 중복 또는 출처 문제를 제보합니다.
+title: "[오류] "
+labels:
+  - pack-error
+body:
+  - type: input
+    id: pack
+    attributes:
+      label: 단어팩
+      description: 파일 경로나 단어팩 URL을 입력해 주세요.
+      placeholder: packs/ja/travel/example.json
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: 문제
+      description: 어떤 단어에 어떤 문제가 있는지 적어 주세요.
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: 수정 제안과 근거
+      description: 올바른 내용과 참고한 출처가 있다면 적어 주세요.
+  - type: checkboxes
+    id: conduct
+    attributes:
+      label: 확인
+      options:
+        - label: 공개적으로 공유해도 되는 내용만 포함했습니다.
+          required: true

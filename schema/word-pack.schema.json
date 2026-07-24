@@ -1,0 +1,63 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/hurest/vocatab-word-packs/blob/main/schema/word-pack.schema.json",
+  "title": "vocatab word pack",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "language",
+    "name",
+    "words"
+  ],
+  "properties": {
+    "language": {
+      "const": "ja"
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 100
+    },
+    "words": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 10000,
+      "items": {
+        "$ref": "#/$defs/word"
+      }
+    }
+  },
+  "$defs": {
+    "word": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "term",
+        "reading",
+        "meaning"
+      ],
+      "properties": {
+        "term": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 200
+        },
+        "reading": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 200
+        },
+        "meaning": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 500
+        },
+        "example": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 1000
+        }
+      }
+    }
+  }
+}

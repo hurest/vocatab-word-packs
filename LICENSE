@@ -1,0 +1,22 @@
+Creative Commons Attribution 4.0 International
+
+Copyright (c) vocatab word packs contributors
+
+The word-pack data, examples, schemas, and documentation in this repository
+are licensed under the Creative Commons Attribution 4.0 International License.
+
+You are free to share and adapt this material for any purpose, including
+commercially, provided that you give appropriate credit, provide a link to the
+license, and indicate if changes were made.
+
+The attribution should identify "vocatab word packs contributors" and link to:
+https://github.com/hurest/vocatab-word-packs
+
+Full license text:
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+License summary:
+https://creativecommons.org/licenses/by/4.0/
+
+The validation scripts and GitHub workflow code are separately licensed under
+the MIT License in LICENSE-CODE.
