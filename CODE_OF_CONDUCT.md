@@ -1,20 +1,25 @@
-# 행동 강령
+# Code of conduct
 
-vocatab word packs 커뮤니티는 나이, 신체, 장애, 민족, 성별 정체성과 표현, 경험 수준, 국적, 외모, 인종, 종교 또는 성적 정체성과 관계없이 누구나 존중받는 환경을 만들기 위해 노력합니다.
+The vocatab word packs community is committed to a respectful environment for
+everyone, regardless of age, body, disability, ethnicity, gender identity and
+expression, experience, nationality, appearance, race, religion, or sexual
+identity.
 
-## 기대하는 행동
+## Expected behavior
 
-- 다른 관점과 경험을 존중합니다.
-- 구체적이고 근거 있는 피드백을 제공합니다.
-- 실수를 인정하고 수정합니다.
-- 학습자와 기여자 모두에게 도움이 되는 방향을 우선합니다.
+- Respect different perspectives and experiences.
+- Give specific, evidence-based feedback.
+- Acknowledge and correct mistakes.
+- Prioritize outcomes that help learners and contributors.
 
-## 허용하지 않는 행동
+## Unacceptable behavior
 
-- 모욕, 괴롭힘, 차별과 위협
-- 개인정보 공개
-- 의도적인 허위 번역, 광고와 스팸
-- 저작권 침해 또는 출처 위조
-- 커뮤니티 활동을 지속적으로 방해하는 행동
+- Insults, harassment, discrimination, or threats
+- Publishing another person's private information
+- Deliberately false translations, advertising, or spam
+- Copyright infringement or falsified sources
+- Persistent disruption of community work
 
-문제가 발생하면 공개 Issue 대신 `vocatab@hurest.com`으로 신고해 주세요. 메인테이너는 필요한 범위에서 내용을 조사하고 경고, 콘텐츠 숨김 또는 참여 권한 회수 등의 조치를 할 수 있습니다.
+Report conduct concerns privately to `vocatab@hurest.com`. Maintainers may
+investigate and take proportionate action, including warnings, hiding content,
+or revoking participation privileges.

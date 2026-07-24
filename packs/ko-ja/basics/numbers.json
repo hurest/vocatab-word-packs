@@ -1,6 +1,23 @@
 {
-  "language": "ja",
-  "name": "숫자",
+  "sourceLanguage": "ko",
+  "targetLanguage": "ja",
+  "name": "Japanese Numbers",
+  "description": "Common Japanese numbers and counters for beginner study.",
+  "thumbnailUrl": "https://packs.vocatab.com/thumbnails/ko-ja/basics/numbers.svg",
+  "tags": [
+    "basics",
+    "numbers"
+  ],
+  "localizations": {
+    "ko": {
+      "name": "일본어 숫자",
+      "description": "초급 학습자를 위한 자주 쓰는 일본어 숫자와 수 표현 모음입니다."
+    },
+    "ja": {
+      "name": "日本語の数字",
+      "description": "初級学習者向けの基本的な数字と数の表現を集めています。"
+    }
+  },
   "words": [
     {
       "term": "一",

@@ -1,6 +1,24 @@
 {
-  "language": "ja",
-  "name": "날짜",
+  "sourceLanguage": "ko",
+  "targetLanguage": "ja",
+  "name": "Japanese Dates",
+  "description": "Japanese words for days, weeks, months, years, and relative dates.",
+  "thumbnailUrl": "https://packs.vocatab.com/thumbnails/ko-ja/basics/dates.svg",
+  "tags": [
+    "basics",
+    "dates",
+    "time"
+  ],
+  "localizations": {
+    "ko": {
+      "name": "일본어 날짜",
+      "description": "일, 주, 월, 연도와 상대 날짜를 나타내는 일본어 단어 모음입니다."
+    },
+    "ja": {
+      "name": "日本語の日付",
+      "description": "日・週・月・年と相対的な日付を表す日本語の単語集です。"
+    }
+  },
   "words": [
     {
       "term": "今日",

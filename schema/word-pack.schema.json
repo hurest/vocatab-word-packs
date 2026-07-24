@@ -5,18 +5,56 @@
   "type": "object",
   "additionalProperties": false,
   "required": [
-    "language",
+    "sourceLanguage",
+    "targetLanguage",
     "name",
     "words"
   ],
   "properties": {
-    "language": {
+    "sourceLanguage": {
+      "const": "ko"
+    },
+    "targetLanguage": {
       "const": "ja"
     },
     "name": {
       "type": "string",
       "minLength": 1,
       "maxLength": 100
+    },
+    "description": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 1000
+    },
+    "thumbnailUrl": {
+      "type": "string",
+      "format": "uri",
+      "pattern": "^https://",
+      "maxLength": 2048
+    },
+    "tags": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 20,
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+        "maxLength": 50
+      }
+    },
+    "localizations": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "ko": {
+          "$ref": "#/$defs/localization"
+        },
+        "ja": {
+          "$ref": "#/$defs/localization"
+        }
+      }
     },
     "words": {
       "type": "array",
@@ -28,6 +66,23 @@
     }
   },
   "$defs": {
+    "localization": {
+      "type": "object",
+      "additionalProperties": false,
+      "minProperties": 1,
+      "properties": {
+        "name": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 100
+        },
+        "description": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 1000
+        }
+      }
+    },
     "word": {
       "type": "object",
       "additionalProperties": false,

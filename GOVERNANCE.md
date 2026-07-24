@@ -1,43 +1,54 @@
-# 거버넌스
+# Governance
 
-## 현재 운영
+## Current operation
 
-저장소 생성자 `@hurest`가 초기 메인테이너이자 승인자입니다. 모든 단어팩 변경은 자동 검증과 Pull Request 검토를 거쳐 `main`에 반영합니다.
+Repository creator `@hurest` is the initial maintainer and approver. Every
+word-pack change goes through automated validation and Pull Request review
+before reaching `main`.
 
-## 역할
+## Roles
 
-### 참여자
+### Contributors
 
-- 단어팩을 제출하고 수정합니다.
-- 오류와 중복을 제보합니다.
-- 공개 Pull Request에 검토 의견을 남깁니다.
+- Submit and update word packs.
+- Report errors and duplicates.
+- Review public Pull Requests.
 
-### 검토자
+### Reviewers
 
-- 여러 단어팩에 지속적으로 정확한 검토를 남깁니다.
-- 출처, 라이선스와 저장소 정책을 이해합니다.
-- 쓰기 권한 없이도 Pull Request와 Issue 분류를 도울 수 있습니다.
+- Consistently leave accurate reviews across word packs.
+- Understand sourcing, licensing, and repository policy.
+- Help classify Pull Requests and Issues without write access.
 
-### 분야 큐레이터
+### Domain curators
 
-- 담당 상황 또는 경로의 Pull Request를 승인합니다.
-- 검토자를 돕고 판단 근거를 공개적으로 설명합니다.
-- 자신의 기여를 유일한 승인자로서 병합하지 않습니다.
+- Approve Pull Requests in assigned categories or language directions.
+- Help reviewers and publicly explain decisions.
+- Do not act as the only approver of their own contribution.
 
-### 메인테이너
+### Maintainers
 
-- 저장소 정책, 자동 검증과 권한을 관리합니다.
-- 큐레이터 승격과 회수를 관리합니다.
-- 보안과 권리 침해 신고에 대응합니다.
+- Manage repository policy, automation, and permissions.
+- Appoint and remove curators.
+- Respond to security and rights reports.
 
-## 권한 확대
+## Expanding permissions
 
-초기 큐레이터는 메인테이너가 공개 검토 이력을 바탕으로 선정합니다. 큐레이터가 세 명 이상이 된 뒤에는 새 큐레이터를 추가하는 공개 Pull Request에 기존 큐레이터 두 명 이상의 동의를 요구하는 방향으로 전환합니다.
+The maintainer selects initial curators based on their public review history.
+Once there are at least three curators, adding another curator should move to a
+public Pull Request requiring support from at least two existing curators.
 
-권한은 기여 횟수만으로 부여하지 않습니다. 검토 정확성, 정책 이해, 지속성, 소통과 책임 있는 수정 이력을 함께 봅니다. 처음에는 특정 경로나 상황에 한정된 권한을 부여합니다.
+Permissions are not granted by contribution count alone. Review accuracy,
+policy knowledge, consistency, communication, and responsible corrections all
+matter. Initial permissions should be limited to a category or language
+direction.
 
-## 비활동과 권한 회수
+## Inactivity and removal
 
-장기간 활동하지 않거나 역할의 책임을 반복적으로 지키지 못한 사용자는 권한을 낮추거나 emeritus로 전환할 수 있습니다. 행동 강령 위반, 악의적인 승인 또는 권한 남용은 즉시 권한 회수 사유가 될 수 있습니다.
+People who remain inactive for a long period or repeatedly neglect role
+responsibilities may be moved to emeritus status or have permissions reduced.
+Code-of-conduct violations, malicious approvals, or permission abuse may lead
+to immediate removal.
 
-권한 추가와 회수는 가능한 한 공개 Issue 또는 Pull Request에 근거를 기록합니다. 개인정보나 안전 문제가 있는 경우에만 비공개 채널을 사용합니다.
+Permission changes should be documented in a public Issue or Pull Request when
+possible. Private channels are reserved for privacy and safety concerns.

@@ -1,6 +1,23 @@
 {
-  "language": "ja",
-  "name": "일본어 기초 샘플",
+  "sourceLanguage": "ko",
+  "targetLanguage": "ja",
+  "name": "Basic Japanese Vocabulary",
+  "description": "A starter collection of common Japanese words for everyday study.",
+  "thumbnailUrl": "https://packs.vocatab.com/thumbnails/ko-ja/basics/basic-vocabulary.svg",
+  "tags": [
+    "basics",
+    "daily-life"
+  ],
+  "localizations": {
+    "ko": {
+      "name": "일본어 기초 어휘",
+      "description": "일상 학습에 자주 쓰는 일본어 단어를 모은 기초 단어팩입니다."
+    },
+    "ja": {
+      "name": "日本語の基礎語彙",
+      "description": "日常学習でよく使う日本語の単語を集めた入門単語パックです。"
+    }
+  },
   "words": [
     {
       "term": "勉強",

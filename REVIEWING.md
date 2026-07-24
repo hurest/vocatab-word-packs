@@ -1,21 +1,27 @@
-# 검토 안내
+# Reviewing
 
-검토는 단순한 찬반 투표가 아니라 다른 사용자가 단어팩을 신뢰할 수 있게 근거를 남기는 과정입니다.
+Review is not a simple vote. It records evidence that helps other learners
+decide whether a word pack is trustworthy.
 
-## 확인 순서
+## Review order
 
-1. Pull Request의 출처와 라이선스 확인
-2. 자동 검증 결과 확인
-3. 일본어 표기와 읽기의 정확성 확인
-4. 한국어 뜻이 문맥과 난이도에 적절한지 확인
-5. 중복, 광고, 개인정보와 유해 콘텐츠 확인
-6. 팩 이름과 상황 분류가 내용을 잘 설명하는지 확인
+1. Check the Pull Request's sources and license.
+2. Check automated validation.
+3. Verify the source and target language direction.
+4. Verify Japanese terms and readings.
+5. Verify that Korean meanings fit the context and level.
+6. Check for duplicates, advertising, personal information, and harmful content.
+7. Confirm that the English default metadata, localized metadata, tags, and
+   category accurately describe the pack.
 
-## 검토 결과
+## Review outcomes
 
-- 문제가 없으면 승인 의견을 남깁니다.
-- 일부 수정이 필요하면 해당 단어에 줄 단위 댓글을 남깁니다.
-- 근거가 불분명하면 출처 보완을 요청합니다.
-- 저작권 침해나 악의적인 내용이 의심되면 승인하지 말고 Issue로 신고합니다.
+- Approve when no issues remain.
+- Leave line-level comments for specific corrections.
+- Request better sources when evidence is unclear.
+- Do not approve suspected copyright violations or malicious content; report
+  them in an Issue.
 
-GitHub의 공식 승인 권한은 현재 관리자와 권한을 위임받은 큐레이터만 가집니다. 그 외 사용자의 구체적인 검토 의견도 향후 큐레이터 선정의 중요한 기록으로 사용합니다.
+Formal GitHub approval is currently limited to maintainers and delegated
+curators. Detailed reviews from other contributors are also considered when
+selecting future curators.

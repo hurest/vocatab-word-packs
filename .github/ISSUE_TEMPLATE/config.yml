@@ -1,5 +1,5 @@
 blank_issues_enabled: false
 contact_links:
-  - name: 보안 및 비공개 신고
+  - name: Security and private reports
     url: mailto:vocatab@hurest.com
-    about: 보안 문제, 개인정보 또는 공개하기 어려운 권리 침해를 신고합니다.
+    about: Report security, privacy, or rights concerns that should not be public.

@@ -1,38 +1,47 @@
-# 기여 안내
+# Contributing
 
-## 기여 전에 확인할 사항
+## Before contributing
 
-- 직접 작성했거나 CC BY 4.0으로 제공할 권리가 있는 내용만 제출합니다.
-- 책, 유료 강의, 사전이나 다른 서비스의 데이터를 허가 없이 복사하지 않습니다.
-- 개인정보, 광고, 혐오 표현과 학습 목적에 필요하지 않은 유해 콘텐츠를 넣지 않습니다.
-- 기여한 데이터는 이 저장소의 CC BY 4.0 라이선스로 배포되는 것에 동의합니다.
+- Submit only work you created or have the right to publish under CC BY 4.0.
+- Do not copy content from books, paid courses, dictionaries, or other services
+  without permission.
+- Do not include personal information, advertising, hate speech, or harmful
+  content unrelated to language learning.
+- Contributions are distributed under this repository's CC BY 4.0 license.
 
-## 새 단어팩 추가
+## Adding a word pack
 
-1. [`examples/word-pack.json`](examples/word-pack.json)을 복사합니다.
-2. 파일 이름을 소문자 kebab-case로 정합니다.
-3. `packs/ja/<상황>/<파일명>.json`에 저장합니다.
-4. `node scripts/validate-packs.mjs`를 실행합니다.
-5. Pull Request를 열고 템플릿의 출처와 확인 항목을 작성합니다.
+1. Copy [`examples/word-pack.json`](examples/word-pack.json).
+2. Use a lowercase kebab-case file name.
+3. Save it under `packs/<source>-<target>/<category>/<file-name>.json`.
+   The currently supported direction is `packs/ko-ja/`.
+4. Write the default `name` and optional `description` in English. Add Korean
+   and Japanese translations under `localizations` when available.
+5. Use English kebab-case values for optional `tags`.
+6. Run `node scripts/validate-packs.mjs`.
+7. Open a Pull Request and complete its source and rights checklist.
 
-초기 상황 폴더는 필요할 때 Pull Request에서 함께 제안할 수 있습니다. 폴더와 파일 이름에는 영문 소문자, 숫자와 하이픈만 사용합니다.
+New category directories may be proposed in the same Pull Request. Directory
+and file names may contain lowercase English letters, numbers, and hyphens.
 
-## 기존 단어팩 수정
+## Updating a word pack
 
-- 변경 이유와 근거를 Pull Request에 적습니다.
-- 뜻이나 읽기를 수정할 때는 가능한 경우 공신력 있는 출처를 링크합니다.
-- 여러 목적의 변경을 하나의 Pull Request에 섞지 않습니다.
-- 단어팩 이름이나 파일 경로를 바꾸면 기존 사용자가 영향을 받을 수 있으므로 이유를 설명합니다.
+- Explain the reason and evidence for the change.
+- Link to an authoritative source when correcting a meaning or reading.
+- Keep unrelated changes in separate Pull Requests.
+- Explain path or name changes because they may affect existing users.
 
-## Pull Request 검토
+## Pull Request review
 
-- 자동 검증이 통과해야 합니다.
-- 현재는 저장소 관리자의 승인이 필요합니다.
-- 새 변경이 추가되면 기존 검토를 다시 확인할 수 있습니다.
-- 검토자는 수정 요청, 출처 보완 또는 팩 분리를 요청할 수 있습니다.
+- Automated validation must pass.
+- A repository maintainer currently approves changes.
+- New commits may require reviewers to check the change again.
+- Reviewers may request source details, content corrections, or pack splitting.
 
-자세한 판단 기준은 [검토 안내](REVIEWING.md)를 확인하세요.
+See [Reviewing](REVIEWING.md) for the full criteria.
 
-## 라이선스 동의
+## License agreement
 
-Pull Request를 제출하면 해당 기여물을 제공할 권리가 있으며, 단어팩 데이터와 문서를 [CC BY 4.0](LICENSE), 검증 코드와 workflow를 [MIT](LICENSE-CODE)로 제공하는 데 동의한 것으로 봅니다.
+By submitting a Pull Request, you confirm that you may provide the contribution
+and agree to publish word-pack data and documentation under [CC BY 4.0](LICENSE)
+and code under [MIT](LICENSE-CODE).

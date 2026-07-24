@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title">
+  <title id="title">Basic Japanese vocabulary</title>
+  <defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#fff0f0"/><stop offset="1" stop-color="#d98787"/></linearGradient></defs>
+  <rect width="640" height="360" rx="32" fill="url(#b)"/>
+  <path d="M110 78h180c34 0 62 28 62 62v154H172c-34 0-62-28-62-62V78Z" fill="#fff" opacity=".78"/>
+  <path d="M530 78H350v216h118c34 0 62-28 62-62V78Z" fill="#fff" opacity=".56"/>
+  <text x="181" y="222" fill="#713838" font-family="sans-serif" font-size="92" font-weight="700">語</text>
+</svg>
