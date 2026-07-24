@@ -10,8 +10,9 @@ settings stay in the user's browser.
 
 Approved packs are organized by language direction under [`packs/`](packs/).
 For example, `packs/ko-ja/` contains packs for Korean speakers learning
-Japanese. Start with [`examples/word-pack.json`](examples/word-pack.json) when
-creating a pack.
+Japanese. Supported language codes are English `en`, Japanese `ja`, Korean
+`ko`, French `fr`, and German `de`. Start with
+[`examples/word-pack.json`](examples/word-pack.json) when creating a pack.
 
 The public catalog is generated and deployed to GitHub Pages after changes are
 merged into `main`. The root `catalog.json` indexes language directions, while
@@ -59,13 +60,32 @@ node scripts/build-catalog.mjs
 - `description`, `thumbnailUrl`, `tags`, and `localizations` are optional.
 - `thumbnailUrl`, when present, must be an HTTPS URL.
 - Tags are unique English kebab-case identifiers such as `daily-life`.
-- Korean and Japanese names and descriptions can be added under
-  `localizations.ko` and `localizations.ja`.
+- English, Japanese, Korean, French, and German names and descriptions can be
+  added under `localizations`.
 - Every word requires `term`, `reading`, and `meaning`; `example` is optional.
 - Files must be UTF-8 JSON and no larger than 5MB.
 
 See the [JSON Schema](schema/word-pack.schema.json) and
 [contribution guide](CONTRIBUTING.md) for the complete rules.
+
+## Multilingual baseline packs
+
+The `basic-vocabulary`, `dates`, `numbers`, and `time` packs are available in
+all 20 directions between the five supported languages. Together they contain
+102 aligned concepts per direction.
+
+The original Korean-to-Japanese packs retain their authored examples. The
+remaining directions are generated deterministically from the aligned
+translations in
+[`scripts/generate-multilingual-packs.mjs`](scripts/generate-multilingual-packs.mjs).
+English readings use IPA. When changing the aligned vocabulary, update the
+translations for every language in the same order, then run:
+
+```sh
+node scripts/generate-multilingual-packs.mjs
+node scripts/validate-packs.mjs
+node scripts/build-catalog.mjs
+```
 
 ## Contributing
 
