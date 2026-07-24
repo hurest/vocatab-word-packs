@@ -1,6 +1,23 @@
 {
-  "language": "ja",
-  "name": "인사말 예시",
+  "sourceLanguage": "ko",
+  "targetLanguage": "ja",
+  "name": "Japanese Greetings",
+  "description": "Everyday Japanese greetings for first-time learners.",
+  "thumbnailUrl": "https://example.com/images/japanese-greetings.webp",
+  "tags": [
+    "basics",
+    "greetings"
+  ],
+  "localizations": {
+    "ko": {
+      "name": "일본어 인사말",
+      "description": "처음 배우는 사람을 위한 일상 일본어 인사말 모음입니다."
+    },
+    "ja": {
+      "name": "日本語のあいさつ",
+      "description": "初めて学ぶ人のための日常的な日本語のあいさつ集です。"
+    }
+  },
   "words": [
     {
       "term": "こんにちは",

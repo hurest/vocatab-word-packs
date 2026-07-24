@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title">
+  <title id="title">Japanese numbers</title>
+  <defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#fff4dc"/><stop offset="1" stop-color="#efb45c"/></linearGradient></defs>
+  <rect width="640" height="360" rx="32" fill="url(#b)"/>
+  <circle cx="474" cy="92" r="56" fill="#fff" opacity=".45"/>
+  <text x="64" y="235" fill="#432a1f" font-family="sans-serif" font-size="150" font-weight="700">一 二 三</text>
+</svg>

@@ -1,31 +1,31 @@
-name: 새 단어팩 요청
-description: 필요한 상황이나 주제의 단어팩을 제안합니다.
-title: "[요청] "
+name: Request a word pack
+description: Suggest a useful topic or situation for a new word pack.
+title: "[Pack request] "
 labels:
   - pack-request
 body:
   - type: input
     id: topic
     attributes:
-      label: 상황 또는 주제
-      placeholder: 일본 여행 중 식당에서 사용하는 표현
+      label: Situation or topic
+      placeholder: Expressions used at restaurants while traveling in Japan
     validations:
       required: true
   - type: textarea
     id: audience
     attributes:
-      label: 필요한 이유와 대상
-      description: 어떤 학습자에게 언제 필요한지 설명해 주세요.
+      label: Audience and need
+      description: Explain who needs this pack and when they would use it.
     validations:
       required: true
   - type: textarea
     id: examples
     attributes:
-      label: 포함하면 좋은 단어 예시
+      label: Example words to include
   - type: checkboxes
     id: conduct
     attributes:
-      label: 확인
+      label: Confirmation
       options:
-        - label: 기존 단어팩과 요청을 검색했습니다.
+        - label: I searched existing packs and requests.
           required: true

@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - "packs/**/*.json"
+      - "thumbnails/**"
       - "scripts/build-catalog.mjs"
       - ".github/workflows/deploy-pages.yml"
   workflow_dispatch:

@@ -1,15 +1,18 @@
-## 변경 내용
+## Changes
 
-<!-- 추가하거나 수정한 단어팩과 이유를 적어 주세요. -->
+<!-- Describe the word packs you added or changed and why. -->
 
-## 출처
+## Sources
 
-<!-- 직접 작성했다면 "직접 작성"이라고 적고, 참고 자료가 있다면 URL과 확인일을 적어 주세요. -->
+<!-- Write "Original work" if you created it yourself. Otherwise include source URLs and access dates. -->
 
-## 확인
+## Checklist
 
-- [ ] 직접 작성했거나 CC BY 4.0으로 제공할 권리가 있는 내용입니다.
-- [ ] 책, 유료 강의, 사전 또는 다른 서비스의 데이터를 허가 없이 복사하지 않았습니다.
-- [ ] 일본어 표기, 읽기와 한국어 뜻을 확인했습니다.
-- [ ] `node scripts/validate-packs.mjs`를 실행했습니다.
-- [ ] 기여물이 저장소의 라이선스로 배포되는 것에 동의합니다.
+- [ ] I created this work or may provide it under CC BY 4.0.
+- [ ] I did not copy books, paid courses, dictionaries, or other services without permission.
+- [ ] I verified the source and target language direction.
+- [ ] I verified Japanese terms and readings and Korean meanings.
+- [ ] Default names and descriptions are in English; optional translations are under `localizations`.
+- [ ] Tags, when present, use English kebab-case.
+- [ ] I ran `node scripts/validate-packs.mjs`.
+- [ ] I agree to publish the contribution under the repository licenses.

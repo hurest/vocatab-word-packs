@@ -1,6 +1,23 @@
 {
-  "language": "ja",
-  "name": "시간",
+  "sourceLanguage": "ko",
+  "targetLanguage": "ja",
+  "name": "Japanese Time Expressions",
+  "description": "Common Japanese words and expressions for telling and discussing time.",
+  "thumbnailUrl": "https://packs.vocatab.com/thumbnails/ko-ja/basics/time.svg",
+  "tags": [
+    "basics",
+    "time"
+  ],
+  "localizations": {
+    "ko": {
+      "name": "일본어 시간 표현",
+      "description": "시간을 말하고 이야기할 때 자주 쓰는 일본어 단어와 표현 모음입니다."
+    },
+    "ja": {
+      "name": "日本語の時間表現",
+      "description": "時刻や時間について話すときによく使う日本語の単語と表現を集めています。"
+    }
+  },
   "words": [
     {
       "term": "時間",

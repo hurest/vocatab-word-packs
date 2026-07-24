@@ -1,5 +1,7 @@
-# 보안 정책
+# Security policy
 
-저장소나 자동화에서 보안 취약점, 노출된 인증 정보 또는 악용 가능한 문제를 발견하면 공개 Issue를 만들지 말고 `vocatab@hurest.com`으로 알려 주세요.
+Do not open a public Issue for security vulnerabilities, exposed credentials,
+or exploitable automation problems. Report them to `vocatab@hurest.com`.
 
-단어팩의 오역, 중복 또는 일반적인 콘텐츠 문제는 Issue 템플릿을 사용해 공개적으로 제보할 수 있습니다.
+Use the public Issue templates for mistranslations, duplicates, and ordinary
+word-pack content problems.
