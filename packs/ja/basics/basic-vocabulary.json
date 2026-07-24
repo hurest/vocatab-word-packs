@@ -1,0 +1,186 @@
+{
+  "language": "ja",
+  "name": "일본어 기초 샘플",
+  "words": [
+    {
+      "term": "勉強",
+      "reading": "べんきょう",
+      "meaning": "공부",
+      "example": "まいにち にほんごを べんきょうしています。"
+    },
+    {
+      "term": "仕事",
+      "reading": "しごと",
+      "meaning": "일, 업무",
+      "example": "きょうは しごとが おおいです。"
+    },
+    {
+      "term": "会議",
+      "reading": "かいぎ",
+      "meaning": "회의",
+      "example": "ごご さんじから かいぎが あります。"
+    },
+    {
+      "term": "約束",
+      "reading": "やくそく",
+      "meaning": "약속",
+      "example": "ともだちと やくそくが あります。"
+    },
+    {
+      "term": "準備",
+      "reading": "じゅんび",
+      "meaning": "준비",
+      "example": "りょこうの じゅんびを しています。"
+    },
+    {
+      "term": "経験",
+      "reading": "けいけん",
+      "meaning": "경험",
+      "example": "かいがいで はたらいた けいけんが あります。"
+    },
+    {
+      "term": "説明",
+      "reading": "せつめい",
+      "meaning": "설명",
+      "example": "つかいかたを せつめいしてください。"
+    },
+    {
+      "term": "予定",
+      "reading": "よてい",
+      "meaning": "예정, 일정",
+      "example": "しゅうまつの よていは ありますか。"
+    },
+    {
+      "term": "相談",
+      "reading": "そうだん",
+      "meaning": "상담, 의논",
+      "example": "せんせいに そうだんしたい ことが あります。"
+    },
+    {
+      "term": "連絡",
+      "reading": "れんらく",
+      "meaning": "연락",
+      "example": "あとで れんらくします。"
+    },
+    {
+      "term": "確認",
+      "reading": "かくにん",
+      "meaning": "확인",
+      "example": "メールを かくにんしてください。"
+    },
+    {
+      "term": "残業",
+      "reading": "ざんぎょう",
+      "meaning": "야근, 잔업",
+      "example": "きょうは ざんぎょうしなければ なりません。"
+    },
+    {
+      "term": "遅刻",
+      "reading": "ちこく",
+      "meaning": "지각",
+      "example": "でんしゃが おくれて ちこくしました。"
+    },
+    {
+      "term": "出張",
+      "reading": "しゅっちょう",
+      "meaning": "출장",
+      "example": "らいしゅう おおさかへ しゅっちょうします。"
+    },
+    {
+      "term": "報告",
+      "reading": "ほうこく",
+      "meaning": "보고",
+      "example": "けっかを ほうこくします。"
+    },
+    {
+      "term": "天気",
+      "reading": "てんき",
+      "meaning": "날씨",
+      "example": "きょうは いい てんきですね。"
+    },
+    {
+      "term": "買い物",
+      "reading": "かいもの",
+      "meaning": "쇼핑, 장보기",
+      "example": "スーパーで かいものを します。"
+    },
+    {
+      "term": "料理",
+      "reading": "りょうり",
+      "meaning": "요리",
+      "example": "ははは りょうりが じょうずです。"
+    },
+    {
+      "term": "旅行",
+      "reading": "りょこう",
+      "meaning": "여행",
+      "example": "なつやすみに りょこうに いきたいです。"
+    },
+    {
+      "term": "写真",
+      "reading": "しゃしん",
+      "meaning": "사진",
+      "example": "ここで しゃしんを とっても いいですか。"
+    },
+    {
+      "term": "映画",
+      "reading": "えいが",
+      "meaning": "영화",
+      "example": "しゅうまつに えいがを みました。"
+    },
+    {
+      "term": "音楽",
+      "reading": "おんがく",
+      "meaning": "음악",
+      "example": "おんがくを ききながら べんきょうします。"
+    },
+    {
+      "term": "運動",
+      "reading": "うんどう",
+      "meaning": "운동",
+      "example": "けんこうの ために うんどうしています。"
+    },
+    {
+      "term": "病院",
+      "reading": "びょういん",
+      "meaning": "병원",
+      "example": "ねつが あるので びょういんへ いきます。"
+    },
+    {
+      "term": "薬",
+      "reading": "くすり",
+      "meaning": "약",
+      "example": "しょくごに くすりを のんでください。"
+    },
+    {
+      "term": "習慣",
+      "reading": "しゅうかん",
+      "meaning": "습관",
+      "example": "はやおきの しゅうかんを つけたいです。"
+    },
+    {
+      "term": "気持ち",
+      "reading": "きもち",
+      "meaning": "기분, 마음",
+      "example": "きょうは きもちが いいです。"
+    },
+    {
+      "term": "気分",
+      "reading": "きぶん",
+      "meaning": "기분, 컨디션",
+      "example": "きぶんが わるいので はやく かえります。"
+    },
+    {
+      "term": "大丈夫",
+      "reading": "だいじょうぶ",
+      "meaning": "괜찮음",
+      "example": "しんぱいしないで、だいじょうぶです。"
+    },
+    {
+      "term": "便利",
+      "reading": "べんり",
+      "meaning": "편리함",
+      "example": "この アプリは とても べんりです。"
+    }
+  ]
+}
