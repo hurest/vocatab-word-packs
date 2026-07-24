@@ -4,9 +4,18 @@
 
 ## 단어팩 사용
 
-현재 vocatab에서는 JSON 파일을 내려받은 뒤 단어팩 등록 화면에서 선택할 수 있습니다. 저장소와 vocatab의 직접 연동은 이후 추가할 예정입니다.
+vocatab의 공개 단어팩 목록에서 원하는 팩을 바로 설치할 수 있습니다. 설치한
+단어팩과 학습 설정은 사용자의 브라우저에 저장됩니다.
 
 단어팩은 [`packs/ja/`](packs/ja/)에서 확인할 수 있습니다. 새 단어팩을 만들 때는 [`examples/word-pack.json`](examples/word-pack.json)을 참고하세요.
+
+앱이 읽는 공개 카탈로그는 `main`에 변경이 병합된 뒤 GitHub Pages 배포
+작업에서 자동으로 생성됩니다. 기여자는 카탈로그 파일을 따로 수정하지 않아도
+됩니다. 로컬에서 배포 결과를 만들려면 아래 명령을 실행합니다.
+
+```sh
+node scripts/build-catalog.mjs
+```
 
 ## JSON 형식
 
